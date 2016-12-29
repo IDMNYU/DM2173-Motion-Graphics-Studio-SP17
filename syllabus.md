@@ -34,9 +34,9 @@ The following Integrated Digital Media program goals are introduced and reinforc
 
 ### COURSE GOALS
 
-* An introduction to designing for time and space including animation, special efffects, and compositing
+* An introduction to designing for time and space including animation, special effects, and compositing
 * Increased competency in visual communication problem solving through research, practice, and evaluation
-* An understanding of the iterative process
+* An increased understanding of the iterative process
 * An Introduction to Adobe After Effects
 * Increased competency in Adobe Illustrator and Adobe Photoshop
 
@@ -154,3 +154,5 @@ projects. This includes images, illustrations, audio etc. The source of any mate
 * Adobe Illustrator
 * Adobe Acrobat Pro
 
+### [RECOMMENDED RESOURCES](recommended_resources.md)
+See Appendix
