@@ -155,10 +155,8 @@ projects. This includes images, illustrations, audio etc. The source of any mate
 * Adobe Illustrator
 * Adobe Acrobat Pro
 
-<<<<<<< HEAD
+
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
 See Appendix
-=======
 
 
->>>>>>> origin/master
