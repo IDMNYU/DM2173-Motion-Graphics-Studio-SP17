@@ -3,7 +3,6 @@
 ```
 
 ```
-
 ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
@@ -11,7 +10,7 @@
     Tuesdays & Thursdays • 2:30PM-4:20PM • 2MTC MAGNET 811 • 3 credit hrs
     Office hours by appointment or directly after class 
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
-    
+
     Prerequisite: None
 
 ####Gitbook Repository: http://deangela.gitbooks.io/motion-graphics-studio-spring-2017/welcome
@@ -54,12 +53,13 @@ shoulders. Community tech sharing is highly advised as well. Use your resources!
 ### STUDENT RESPONSIBILITIES
 
 * Schedule your time (keep a calendar of some sort) 
-* Come to class on time and participate (be present and engaged)
+* Come to class on time and participate actively in discussions (be present and engaged)
 * Study outside of class (ideally with classmate(s)
 * Devote at a minimum 4 to 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
 * Consult slack at least once a week for up to date info
 * Complete all assignments by due dates
 * Acquire and read all assigned readings before they are due
+* Submit a portfolio of work spanning the duration of class.
 * Action – do your absolute best
 * Strive for continuous improvement
 * Direct message me on slack re: contact about logistics (when, where, how many?) only
@@ -71,16 +71,6 @@ shoulders. Community tech sharing is highly advised as well. Use your resources!
 * Have self-confidence and pride in your work
 * Take risks & be fearless in your projects
 * Have fun!
-
-
-
-* Come to class on time and participate actively in discussions. !
-* Develop verbal and visual skills necessary to offer your classmates constructive, productive, professional critiques of their work.
-* Acquire copies of the required books and read assigned essays and articles. 
-* Complete all assignments by the due date. This includes homework assignments, readings, research, concept development, learning
-software & expanding on ideas covered in class.
-* Maintain a high level of professionalism and quality standards in your own work. 
-* Submit a portfolio of work spanning the duration of class.
 
 ###EVALUATION & GRADING
 Grading
@@ -113,25 +103,19 @@ The final project grade will be based on the following:
 ##### Qualitative Overview
 
 Each student will be judged on the quality, experimentation, and improvement that their work shows.
-Excellent
-
-* Performance and attendance of the student has been of the highest level. Work clearly differentiates itself from other work. It has memorable impact and repeat playability. Work surpasses all of the criteria set forth in the assignment descriptions, and shows what is done by a highly self-motivated student who pursues concepts and techniques above and beyond what is discussed in class. The content is exceptional with outstanding critical thinking, & original, thoughtful and/or imaginative ideas. Shows deft utilization of the fundamental, motion graphics principles of time, space, image, type, audio, and impeccable craft. Spelling, punctuation or grammar errors are nonexistent. It demonstrates a strong utilization of the ability to work independently, research / investigate, experiment / explore, and iterate.
-Very Good / Good
-* Performance and attendance of the student has been good, though not of the highest level. Work is better than average, showing sensitivity to motion graphics and general design principles and extra effort. Work has very good/good levels of impact, conceptual development, and visual interest. Employs an understanding & utilization of process & iteration, and above average craft & attention to detail.
-Satisfactory
-* Performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of motion graphics and general design principles. Work has acceptable levels of impact, conceptual development, and visual interest. It lacks thoughtful, original, and imaginative resolution and/or attention to detail and craft. It employs process and iteration but does not demonstrate notable solutions.
-Poor / Below Average
-* Performance and attendance of the student has been less than adequate. Work is lacking in many or most areas that show any understanding of motion graphics and general design principles. The impact of the work is weak with unsound, unoriginal, or unimaginative thinking. Problems may include lack of interest, procrastination, poor planning, poor production, and/or poor craft.
-Unacceptable
-* Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the motion graphics and general design principles on many levels, and/or a severe lack of interest.
+* **Excellent** Performance and attendance of the student has been of the highest level. Work clearly differentiates itself from other work. It has memorable impact and repeat playability. Work surpasses all of the criteria set forth in the assignment descriptions, and shows what is done by a highly self-motivated student who pursues concepts and techniques above and beyond what is discussed in class. The content is exceptional with outstanding critical thinking, & original, thoughtful and/or imaginative ideas. Shows deft utilization of the fundamental, motion graphics principles of time, space, image, type, audio, and impeccable craft. Spelling, punctuation or grammar errors are nonexistent. It demonstrates a strong utilization of the ability to work independently, research / investigate, experiment / explore, and iterate.
+* **Very Good / Good** Performance and attendance of the student has been good, though not of the highest level. Work is better than average, showing sensitivity to motion graphics and general design principles and extra effort. Work has very good/good levels of impact, conceptual development, and visual interest. Employs an understanding & utilization of process & iteration, and above average craft & attention to detail.
+* **Satisfactory** Performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of motion graphics and general design principles. Work has acceptable levels of impact, conceptual development, and visual interest. It lacks thoughtful, original, and imaginative resolution and/or attention to detail and craft. It employs process and iteration but does not demonstrate notable solutions.
+* **Poor / Below Average** Performance and attendance of the student has been less than adequate. Work is lacking in many or most areas that show any understanding of motion graphics and general design principles. The impact of the work is weak with unsound, unoriginal, or unimaginative thinking. Problems may include lack of interest, procrastination, poor planning, poor production, and/or poor craft.
+* **Unacceptable** Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the motion graphics and general design principles on many levels, and/or a severe lack of interest.
 
 Attendance
-Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
-Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
-Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-Contact the professor IN ADVANCE if you will not be in class 
+* Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
+* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
+* Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
+* Contact the professor IN ADVANCE if you will not be in class 
 (in person or by email is preferred).
-ATTENDANCE IS MANDATORY DURING THE MIDTERM AND FINAL CRITIQUES.
+* ATTENDANCE IS MANDATORY DURING THE MIDTERM AND FINAL CRITIQUES.
 
 ### ACADEMIC & CREATIVE HONESTY
 All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own
