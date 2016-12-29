@@ -158,7 +158,7 @@ Each student will be judged on the quality, experimentation, and improvement tha
 
 \* \*\*Excellent\*\* Performance and attendance of the student has been of the highest level. Work clearly differentiates itself from other work. It has memorable impact and repeat playability. Work surpasses all of the criteria set forth in the assignment descriptions, and shows what is done by a highly self-motivated student who pursues concepts and techniques above and beyond what is discussed in class. The content is exceptional with outstanding critical thinking,&original, thoughtful and/or imaginative ideas. Shows deft utilization of the fundamental, motion graphics principles of time, space, image, type, audio, and impeccable craft. Spelling, punctuation or grammar errors are nonexistent. It demonstrates a strong utilization of the ability to work independently, research / investigate, experiment / explore, and iterate.
 
-*  \*\*Very Good / Good\*\* Performance and attendance of the student has been good, though not of the highest level. Work is better than average, showing sensitivity to motion graphics and general design principles and extra effort. Work has very good/good levels of impact, co nceptual development, and visual interest. Employs an understanding&utilization of process & iteration, and above average craft & attention to detail.
+* \*\*Very Good / Good\*\* Performance and attendance of the student has been good, though not of the highest level. Work is better than average, showing sensitivity to motion graphics and general design principles and extra effort. Work has very good/good levels of impact, conceptual development, and visual interest. Employs an understanding & utilization of process & iteration, and above average craft & attention to detail.
 
 \* \*\*Satisfactory\*\* Performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of motion graphics and general design principles. Work has acceptable levels of impact, conceptual development, and visual interest. It lacks thoughtful, original, and imaginative resolution and/or attention to detail and craft. It employs process and iteration but does not demonstrate notable solutions.
 
@@ -166,7 +166,7 @@ Each student will be judged on the quality, experimentation, and improvement tha
 
 \* \*\*Unacceptable\*\* Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the motion graphics and general design principles on many levels, and/or a severe lack of interest.
 
-Attendance
+**Attendance**
 
 \* Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
 
@@ -174,21 +174,13 @@ Attendance
 
 \* Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
 
-\* Contact the professor IN ADVANCE if you will not be in class
-
-\(in person or by email is preferred\).
+\* Contact the professor IN ADVANCE if you will not be in class \(in person or by slack is preferred\).
 
 \* ATTENDANCE IS MANDATORY DURING THE MIDTERM AND FINAL CRITIQUES.
 
-\#\#\# ACADEMIC
+\#\#\# ACADEMIC & CREATIVE HONESTY
 
-&
-
-CREATIVE HONESTY
-
-All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own
-
-work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for
+All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s ownwork in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for
 
 citing and documenting source material.
 
