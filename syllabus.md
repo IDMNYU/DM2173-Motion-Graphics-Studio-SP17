@@ -35,13 +35,9 @@ The following Integrated Digital Media program goals are introduced and reinforc
 ### COURSE GOALS
 
 * An introduction to designing for time and space including animation, special efffects, and compositing
-
 * Increased competency in visual communication problem solving through research, practice, and evaluation
-
 * An understanding of the iterative process
-
 * An Introduction to Adobe After Effects
-
 * Increased competency in Adobe Illustrator and Adobe Photoshop
 
 ### LEARNING OUTCOMES
@@ -61,43 +57,24 @@ This class is about motion graphics and visual concepts first and foremost & tec
 shoulders. Community tech sharing is highly advised as well. Use your resources!
 
 ### STUDENT RESPONSIBILITIES
-
-* Schedule your time (keep a calendar of some sort)
-
 * Come to class on time and participate actively in discussions (be present and engaged)
-
-* Study outside of class (ideally with classmate(s)
-
+* Study outside of class (ideally with classmate(s))
+* Schedule your time (keep a calendar of some sort)
 * Devote at a minimum 4 to 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
-
 * Consult slack at least once a week for up to date info
-
 * Complete all assignments by due dates
-
 * Acquire and read all assigned readings before they are due
-
 * Submit a portfolio of work spanning the duration of class.
-
 * Action – do your absolute best
-
 * Strive for continuous improvement
-
 * Direct message me on slack re: contact about logistics (when, where, how many?) only
-
 * Talk to me in person about issues and problems. Do not direct message me long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
-
 * Have desire amounting to enthusiasm (to learn, to explore)
-
 * Have patience, persistence, and discipline
-
 * Be creative
-
 * Pay attention to detail & craft
-
 * Have self-confidence and pride in your work
-
 * Take risks & be fearless in your projects
-
 * Have fun!
 
 ### EVALUATION & GRADING
@@ -128,17 +105,11 @@ Your grade for the course will be based on the following:
 The final project grade will be based on the following:
 
 * 40% Crit Presence And Participation
-
 * 15% Concept/Meaning/Emotion/Theme
-
 * 15% Space (Composition)
-
 * 20% Time (Motion / Transitions)
-
 * 05% Image (Visuals)
-
 * 05% Type
-
 * 05% Audio (Sound)
 
 ### Qualitative Overview
@@ -165,9 +136,10 @@ Each student will be judged on the quality, experimentation, and improvement tha
 
 ### ACADEMIC & CREATIVE HONESTY
 
-All  work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, citing and documenting source material.
+All  work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material. 
 
-You MUST have complete rights of use to any and all materials which appear in your final projects. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students who make music for audio tracks, create your own audio or contact the authors of your audio selections for rights. I strongly encourage you to use original images for all of your projects, however should you absolutely require to use stock images/video etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated.
+You MUST have complete rights of use to any and all materials which appear in your final
+projects. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with the music students for audio tracks, create your own audio or contact the authors of your audio selections for rights. I strongly encourage you to use original images for all of your projects, however should you absolutely require to use stock images/video etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated.
 
 ### REQUIRED SUPPLIES
 
