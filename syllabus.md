@@ -180,7 +180,7 @@ Each student will be judged on the quality, experimentation, and improvement tha
 
 \#\#\# ACADEMIC & CREATIVE HONESTY
 
-All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s ownwork in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for
+All  work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, 
 
 citing and documenting source material.
 
