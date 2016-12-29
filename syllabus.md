@@ -1,10 +1,8 @@
-```
-# DM-UY 2173 Motion Graphics Studio
-```
+\# DM-UY 2173 Motion Graphics Studio
 
-```
 ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
+\#\#\#\#  Integrated Digital Media • Technology, Culture & Society Department 
+```
 
     De Angela L. Duff • deangela.duff@nyu.edu • Spring 2017 
     Tuesdays & Thursdays • 2:30PM-4:20PM • 2MTC MAGNET 811 • 3 credit hrs
@@ -18,7 +16,7 @@
 ####Course Management Site: http://bxmc.slack.com 
 
 ---
-```
+
 
 ---
 
