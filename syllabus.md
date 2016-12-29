@@ -1,7 +1,6 @@
-\#DM-UY 2173 Motion Graphics Studio
+# DM-UY 2173 Motion Graphics Studio
 
-![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)  
-\#\#\#\#  Integrated Digital Media • Technology, Culture & Society Department
+### ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png) **Integrated Digital Media • Technology, Culture & Society Department**
 
 ```
 De Angela L. Duff • deangela.duff@nyu.edu • Spring 2017 
@@ -20,22 +19,20 @@ Prerequisite: None
 
 ---
 
-\#\#Welcome to Motion Graphics Studio!
+## Welcome to Motion Graphics Studio!
 
 Motion graphics can be found in a wide range of media: broadcast, web, animation, and film to name a few. This course will allow students to explore the elements of time and space to convey messages and meaning through type, image, and sound for the screen. Individual creativity will be stressed as well as the understanding and use of industry-standard software for developing motion graphics.
 
-\#\#\#PROGRAM GOALS
+### PROGRAM GOALS
 
 The following Integrated Digital Media program goals are introduced and reinforced within this course. Students will:
 
 * develop conceptual thinking skills to generate ideas and content in order to solve problems or create opportunities.
-  develop a research and studio practice through inquiry and iteration.
+* develop a research and studio practice through inquiry and iteration.
+* develop critical thinking skills that will allow them to analyze and position their work within cultural, historical, aesthetic, economic, and technological contexts.
+* develop collaboration skills to actively and effectively work in a team or group.
 
-  develop critical thinking skills that will allow them to analyze and position their work within cultural, historical, aesthetic, economic, and technological contexts.
-
-  \* develop collaboration skills to actively and effectively work in a team or group.
-
-\#\#\#COURSE GOALS
+### COURSE GOALS
 
 * An introduction to designing for time and space including animation, special efffects, and compositing
 
@@ -47,23 +44,23 @@ The following Integrated Digital Media program goals are introduced and reinforc
 
 * Increased competency in Adobe Illustrator and Adobe Photoshop
 
-\#\#\# LEARNING OUTCOMES
+### LEARNING OUTCOMES
 
 By the end of the course, students will be able to create motion graphics for a wide range of media: broadcast and cable tv, web, animation, and film to name a few.
 
-\#\#\# CLASS FORMAT
+### CLASS FORMAT
 
 The class will consist of lectures, screenings, show & tells, demos, and critiques. Both collaborative and individual projects will be given.
 
 Critiques are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
-\#\#\# TECHNOLOGY
+### TECHNOLOGY
 
 This class is about motion graphics and visual concepts first and foremost & technology second. Through lectures, video tutorials, & demos, we will cover many important technical issues, but—as in the professional world—the burden of technology will always lie squarely on the designer’s
 
 shoulders. Community tech sharing is highly advised as well. Use your resources!
 
-\#\#\# STUDENT RESPONSIBILITIES
+### STUDENT RESPONSIBILITIES
 
 \* Schedule your time \(keep a calendar of some sort\)
 
@@ -103,7 +100,7 @@ shoulders. Community tech sharing is highly advised as well. Use your resources!
 
 \* Have fun!
 
-\#\#\#EVALUATION & GRADING
+### EVALUATION & GRADING
 
 **Grading**
 
@@ -117,21 +114,17 @@ If you turn in your midterm or final before the due date, knowing that you will 
 
 Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
-\#\#\#\#\# Quantitative Overview
+### Quantitative Overview
 
 Your grade for the course will be based on the following:
 
-\* 56% Projects \(14 projects x 4% each\)
+* 56% Projects \(14 projects x 4% each\)
+  14% End of semester deliverables
 
-\* 14% End of semester deliverables
-
-\* 10% Final Project
-
-\* 10% After Effects Diary
-
-\* 05% Show & Tell / Reverse Storyboard
-
-\* 05% Midterm and Final Self-Assessment
+  10% Final Project
+  10% After Effects Diary
+  05% Show & Tell / Reverse Storyboard
+  05% Midterm and Final Self-Assessment
 
 The final project grade will be based on the following:
 
@@ -149,7 +142,7 @@ The final project grade will be based on the following:
 
 \* 05% Audio \(Sound\)
 
-\#\#\#\#\# Qualitative Overview
+### Qualitative Overview
 
 Each student will be judged on the quality, experimentation, and improvement that their work shows.
 
