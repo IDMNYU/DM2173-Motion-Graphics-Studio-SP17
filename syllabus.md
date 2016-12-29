@@ -119,28 +119,27 @@ Your final grade will be based on a synthesis of quantitative & qualitative rubr
 Your grade for the course will be based on the following:
 
 * 56% Projects \(14 projects x 4% each\)
-  14% End of semester deliverables
 
-  10% Final Project
-  10% After Effects Diary
-  05% Show & Tell / Reverse Storyboard
-  05% Midterm and Final Self-Assessment
+* 14% End of semester deliverables
+
+* 10% Final Project
+
+* 10% After Effects Diary
+
+* 05% Show & Tell / Reverse Storyboard
+
+* 05% Midterm and Final Self-Assessment
 
 The final project grade will be based on the following:
 
-\* 40% Crit Presence And Participation
+* 40% Crit Presence And Participation
+  15% Concept/Meaning/Emotion/Theme
 
-\* 15% Concept/Meaning/Emotion/Theme
-
-\* 15% Space \(Composition\)
-
-\* 20% Time \(Motion / Transitions\)
-
-\* 05% Image \(Visuals\)
-
-\* 05% Type
-
-\* 05% Audio \(Sound\)
+  15% Space \(Composition\)
+  20% Time \(Motion / Transitions\)
+  05% Image \(Visuals\)
+  05% Type
+  05% Audio \(Sound\)
 
 ### Qualitative Overview
 
