@@ -28,13 +28,12 @@ Motion graphics can be found in a wide range of media: broadcast, web, animation
 
 The following Integrated Digital Media program goals are introduced and reinforced within this course. Students will:
 
-\* develop conceptual thinking skills to generate ideas and content in order to solve problems or create opportunities.
+* develop conceptual thinking skills to generate ideas and content in order to solve problems or create opportunities.
+  develop a research and studio practice through inquiry and iteration.
 
-\* develop a research and studio practice through inquiry and iteration.
+  develop critical thinking skills that will allow them to analyze and position their work within cultural, historical, aesthetic, economic, and technological contexts.
 
-\* develop critical thinking skills that will allow them to analyze and position their work within cultural, historical, aesthetic, economic, and technological contexts.
-
-\* develop collaboration skills to actively and effectively work in a team or group.
+  \* develop collaboration skills to actively and effectively work in a team or group.
 
 \#\#\#COURSE GOALS
 
