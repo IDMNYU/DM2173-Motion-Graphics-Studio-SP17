@@ -158,19 +158,7 @@ Each student will be judged on the quality, experimentation, and improvement tha
 
 \* \*\*Excellent\*\* Performance and attendance of the student has been of the highest level. Work clearly differentiates itself from other work. It has memorable impact and repeat playability. Work surpasses all of the criteria set forth in the assignment descriptions, and shows what is done by a highly self-motivated student who pursues concepts and techniques above and beyond what is discussed in class. The content is exceptional with outstanding critical thinking,&original, thoughtful and/or imaginative ideas. Shows deft utilization of the fundamental, motion graphics principles of time, space, image, type, audio, and impeccable craft. Spelling, punctuation or grammar errors are nonexistent. It demonstrates a strong utilization of the ability to work independently, research / investigate, experiment / explore, and iterate.
 
-\* \*\*Very Good / Good\*\* Performance and attendance of the student has been good, though not of the highest level. Work is better than average, showing sensitivity to motion graphics and general design principles and extra effort. Work has very good/good levels of impact, conceptual development, and visual interest. Employs an understanding
-
-&
-
-utilization of process
-
-&
-
-iteration, and above average craft
-
-&
-
-attention to detail.
+*  \*\*Very Good / Good\*\* Performance and attendance of the student has been good, though not of the highest level. Work is better than average, showing sensitivity to motion graphics and general design principles and extra effort. Work has very good/good levels of impact, co nceptual development, and visual interest. Employs an understanding&utilization of process & iteration, and above average craft & attention to detail.
 
 \* \*\*Satisfactory\*\* Performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of motion graphics and general design principles. Work has acceptable levels of impact, conceptual development, and visual interest. It lacks thoughtful, original, and imaginative resolution and/or attention to detail and craft. It employs process and iteration but does not demonstrate notable solutions.
 
