@@ -57,9 +57,10 @@ This class is about motion graphics and visual concepts first and foremost & tec
 shoulders. Community tech sharing is highly advised as well. Use your resources!
 
 ### STUDENT RESPONSIBILITIES
-* Come to class on time and participate actively in discussions (be present and engaged)
-* Study outside of class (ideally with classmate(s))
-* Schedule your time (keep a calendar of some sort)
+
+* Come to class on time and participate actively in discussions \(be present and engaged\)
+* Study outside of class \(ideally with classmate\(s\)\)
+* Schedule your time \(keep a calendar of some sort\)
 * Devote at a minimum 4 to 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
 * Consult slack at least once a week for up to date info
 * Complete all assignments by due dates
@@ -67,9 +68,9 @@ shoulders. Community tech sharing is highly advised as well. Use your resources!
 * Submit a portfolio of work spanning the duration of class.
 * Action – do your absolute best
 * Strive for continuous improvement
-* Direct message me on slack re: contact about logistics (when, where, how many?) only
-* Talk to me in person about issues and problems. Do not direct message me long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
-* Have desire amounting to enthusiasm (to learn, to explore)
+* Direct message me on slack re: contact about logistics \(when, where, how many?\) only
+* Talk to me in person about issues and problems. Do not direct message me long conversations on slack. \(if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.\)
+* Have desire amounting to enthusiasm \(to learn, to explore\)
 * Have patience, persistence, and discipline
 * Be creative
 * Pay attention to detail & craft
@@ -87,7 +88,7 @@ Evaluations will be conducted in the form of individual and class critiques. Cla
 
 Makeup assignments are only available when discussed with and approved by the instructor in advance of the original due date.
 
-If you turn in your midterm or final before the due date, knowing that you will be absent on the midterm or final, 40 points will be subtracted from your final project grade. If you attend the midterm or final without a finished project, you will receive up to 40 points for your presence and participation. A late midterm or final (after 2:40pm on the due date) will not be accepted under any circumstances.
+If you turn in your midterm or final before the due date, knowing that you will be absent on the midterm or final, 40 points will be subtracted from your final project grade. If you attend the midterm or final without a finished project, you will receive up to 40 points for your presence and participation. A late midterm or final \(after 2:40pm on the due date\) will not be accepted under any circumstances.
 
 Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
@@ -95,7 +96,7 @@ Your final grade will be based on a synthesis of quantitative & qualitative rubr
 
 Your grade for the course will be based on the following:
 
-* 56% Projects (14 projects x 4% each)
+* 56% Projects \(14 projects x 4% each\)
 * 14% End of semester deliverables
 * 10% Final Project
 * 10% After Effects Diary
@@ -106,11 +107,11 @@ The final project grade will be based on the following:
 
 * 40% Crit Presence And Participation
 * 15% Concept/Meaning/Emotion/Theme
-* 15% Space (Composition)
-* 20% Time (Motion / Transitions)
-* 05% Image (Visuals)
+* 15% Space \(Composition\)
+* 20% Time \(Motion / Transitions\)
+* 05% Image \(Visuals\)
 * 05% Type
-* 05% Audio (Sound)
+* 05% Audio \(Sound\)
 
 ### Qualitative Overview
 
@@ -129,22 +130,22 @@ Each student will be judged on the quality, experimentation, and improvement tha
 **Attendance**
 
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
-* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
+* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* Contact the professor IN ADVANCE if you will not be in class (in person or by slack is preferred).
+* Contact the professor IN ADVANCE if you will not be in class \(in person or by slack is preferred\).
 * ATTENDANCE IS MANDATORY DURING THE MIDTERM AND FINAL CRITIQUES.
 
 ### ACADEMIC & CREATIVE HONESTY
 
-All  work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material. 
+All  work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.
 
-You MUST have complete rights of use to any and all materials which appear in your final
+You MUST have complete rights of use to any and all materials which appear in your final  
 projects. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with the music students for audio tracks, create your own audio or contact the authors of your audio selections for rights. I strongly encourage you to use original images for all of your projects, however should you absolutely require to use stock images/video etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated.
 
 ### REQUIRED SUPPLIES
 
 * Laptop
-* Digital Storage (Jump Drives, Firewire Drive, Laptop, etc)
+* Digital Storage \(Jump Drives, Firewire Drive, Laptop, etc\)
 * High Definition Digital Video Camera
 
 ### REQUIRED SOFTWARE
@@ -154,5 +155,10 @@ projects. This includes images, illustrations, audio etc. The source of any mate
 * Adobe Illustrator
 * Adobe Acrobat Pro
 
+<<<<<<< HEAD
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
 See Appendix
+=======
+
+
+>>>>>>> origin/master
