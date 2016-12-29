@@ -46,7 +46,7 @@ The following Integrated Digital Media program goals are introduced and reinforc
 
 * An understanding of the iterative process
 
-* An Introduction to Adobe After Effects 
+* An Introduction to Adobe After Effects
 
 * Increased competency in Adobe Illustrator and Adobe Photoshop
 
@@ -106,8 +106,6 @@ shoulders. Community tech sharing is highly advised as well. Use your resources!
 
 \* Have fun!
 
-
-
 \#\#\#EVALUATION & GRADING
 
 **Grading**
@@ -118,15 +116,9 @@ Evaluations will be conducted in the form of individual and class critiques. Cla
 
 Makeup assignments are only available when discussed with and approved by the instructor in advance of the original due date.
 
-If you turn in your midterm or final before the due date, knowing that you will be absent on the midterm or final, 40 points will be subtracted from your final project grade. If you attend the midterm or final without a finished project, you will receive up to 40 points for your presence and participation. A late midterm or final \(after 1:10pm on the due date\) will not be accepted under any circumstances.
-
-  
-
+If you turn in your midterm or final before the due date, knowing that you will be absent on the midterm or final, 40 points will be subtracted from your final project grade. If you attend the midterm or final without a finished project, you will receive up to 40 points for your presence and participation. A late midterm or final \(after 2:40pm on the due date\) will not be accepted under any circumstances.
 
 Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
-
-  
-
 
 \#\#\#\#\# Quantitative Overview
 
@@ -140,16 +132,9 @@ Your grade for the course will be based on the following:
 
 \* 10% After Effects Diary
 
-\* 05% Show 
-
-&
-
- Tell / Reverse Storyboard
+\* 05% Show & Tell / Reverse Storyboard
 
 \* 05% Midterm and Final Self-Assessment
-
-  
-
 
 The final project grade will be based on the following:
 
@@ -167,44 +152,33 @@ The final project grade will be based on the following:
 
 \* 05% Audio \(Sound\)
 
-  
-
-
 \#\#\#\#\# Qualitative Overview
-
-  
-
 
 Each student will be judged on the quality, experimentation, and improvement that their work shows.
 
-\* \*\*Excellent\*\* Performance and attendance of the student has been of the highest level. Work clearly differentiates itself from other work. It has memorable impact and repeat playability. Work surpasses all of the criteria set forth in the assignment descriptions, and shows what is done by a highly self-motivated student who pursues concepts and techniques above and beyond what is discussed in class. The content is exceptional with outstanding critical thinking, 
+\* \*\*Excellent\*\* Performance and attendance of the student has been of the highest level. Work clearly differentiates itself from other work. It has memorable impact and repeat playability. Work surpasses all of the criteria set forth in the assignment descriptions, and shows what is done by a highly self-motivated student who pursues concepts and techniques above and beyond what is discussed in class. The content is exceptional with outstanding critical thinking,&
+
+original, thoughtful and/or imaginative ideas. Shows deft utilization of the fundamental, motion graphics principles of time, space, image, type, audio, and impeccable craft. Spelling, punctuation or grammar errors are nonexistent. It demonstrates a strong utilization of the ability to work independently, research / investigate, experiment / explore, and iterate.
+
+\* \*\*Very Good / Good\*\* Performance and attendance of the student has been good, though not of the highest level. Work is better than average, showing sensitivity to motion graphics and general design principles and extra effort. Work has very good/good levels of impact, conceptual development, and visual interest. Employs an understanding
 
 &
 
- original, thoughtful and/or imaginative ideas. Shows deft utilization of the fundamental, motion graphics principles of time, space, image, type, audio, and impeccable craft. Spelling, punctuation or grammar errors are nonexistent. It demonstrates a strong utilization of the ability to work independently, research / investigate, experiment / explore, and iterate.
-
-\* \*\*Very Good / Good\*\* Performance and attendance of the student has been good, though not of the highest level. Work is better than average, showing sensitivity to motion graphics and general design principles and extra effort. Work has very good/good levels of impact, conceptual development, and visual interest. Employs an understanding 
+utilization of process
 
 &
 
- utilization of process 
+iteration, and above average craft
 
 &
 
- iteration, and above average craft 
-
-&
-
- attention to detail.
+attention to detail.
 
 \* \*\*Satisfactory\*\* Performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of motion graphics and general design principles. Work has acceptable levels of impact, conceptual development, and visual interest. It lacks thoughtful, original, and imaginative resolution and/or attention to detail and craft. It employs process and iteration but does not demonstrate notable solutions.
 
 \* \*\*Poor / Below Average\*\* Performance and attendance of the student has been less than adequate. Work is lacking in many or most areas that show any understanding of motion graphics and general design principles. The impact of the work is weak with unsound, unoriginal, or unimaginative thinking. Problems may include lack of interest, procrastination, poor planning, poor production, and/or poor craft.
 
 \* \*\*Unacceptable\*\* Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the motion graphics and general design principles on many levels, and/or a severe lack of interest.
-
-  
-
 
 Attendance
 
@@ -220,14 +194,11 @@ Attendance
 
 \* ATTENDANCE IS MANDATORY DURING THE MIDTERM AND FINAL CRITIQUES.
 
-  
-
-
-\#\#\# ACADEMIC 
+\#\#\# ACADEMIC
 
 &
 
- CREATIVE HONESTY
+CREATIVE HONESTY
 
 All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own
 
@@ -235,15 +206,9 @@ work in any academic exercise, is absolutely unacceptable. Any student who commi
 
 citing and documenting source material.
 
-  
-
-
 You MUST have complete rights of use to any and all materials which appear in your final projects. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students who make music for audio tracks, create your own audio or contact the authors of your audio selections for rights. I strongly encourage you to use original images for all of your projects, however should you absolutely require to use stock images/video etc., you will need to provide a PDF of
 
 all source files and the usage rights you have purchased/negotiated.
-
-  
-
 
 \#\#\# REQUIRED SUPPLIES
 
@@ -252,9 +217,6 @@ all source files and the usage rights you have purchased/negotiated.
 \* Digital Storage \(Jump Drives, Firewire Drive, Laptop, etc\)
 
 \* High Definition Digital Video Camera
-
-  
-
 
 \#\#\# REQUIRED SOFTWARE
 
