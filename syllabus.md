@@ -1,7 +1,7 @@
 \#DM-UY 2173 Motion Graphics Studio
 
 ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)  
-\#\#\#\#  Integrated Digital Media • Technology, Culture & Society Department 
+\#\#\#\#  Integrated Digital Media • Technology, Culture & Society Department
 
 ```
 De Angela L. Duff • deangela.duff@nyu.edu • Spring 2017 
@@ -20,11 +20,11 @@ Prerequisite: None
 
 ---
 
-\#\# Welcome to Motion Graphics Studio!
+\#\#Welcome to Motion Graphics Studio!
 
 Motion graphics can be found in a wide range of media: broadcast, web, animation, and film to name a few. This course will allow students to explore the elements of time and space to convey messages and meaning through type, image, and sound for the screen. Individual creativity will be stressed as well as the understanding and use of industry-standard software for developing motion graphics.
 
-\#\#\# PROGRAM GOALS
+\#\#\#PROGRAM GOALS
 
 The following Integrated Digital Media program goals are introduced and reinforced within this course. Students will:
 
@@ -36,7 +36,7 @@ The following Integrated Digital Media program goals are introduced and reinforc
 
 \* develop collaboration skills to actively and effectively work in a team or group.
 
-\#\#\# COURSE GOALS
+\#\#\#COURSE GOALS
 
 * An introduction to designing for time and space including animation, special efffects, and compositing
 
