@@ -1,6 +1,6 @@
 # DM-UY 2173 Motion Graphics Studio
 
-Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
+#### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
 ### RECOMMENDED BOOKS
 **Motion Graphics**
@@ -52,7 +52,7 @@ Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. 
 
 
 ### RECOMMENDED WEB RESOURCES
-* Adobe After Effects, Illustrator, Photoshop, & Cinema 4D
+* Adobe After Effects, Illustrator & Photoshop
 http://lynda.com
 * AE TUTS – http://ae.tutsplus.com
 * Creative Cow Video Tutorials – http://library.creativecow.net

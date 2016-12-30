@@ -1,6 +1,6 @@
 # DM-UY 2173 Motion Graphics Studio
 
-Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
+#### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
 ### SHOW & TELLS & REVERSE STORYBOARD
 * During the 1st or 2nd class period, you will either volunteer for or be assigned from the list below or discuss an alternate choice that is not on the list with the professor. During the preceding week, the show & tell(s) that will be due the following week will be announced. 
