@@ -1,4 +1,5 @@
 # DM-UY 2173 Motion Graphics Studio
+# THIS IS A DRAFT. NOT ACCURATE.
 
 ### ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png) **Integrated Digital Media • Technology, Culture & Society Department**
 
