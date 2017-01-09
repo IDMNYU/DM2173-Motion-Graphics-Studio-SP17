@@ -20,8 +20,8 @@
 
 <tr>
 <td>1</td>
-<td>Jan 24<br><br><i><strong>NO CLASS</strong> Professor at conference</i></td>
-<td>Jan 26<br><br><strong>Course and Student Introductions<br>Overview of Course<br>Assign Show &amp; Tells</strong></td>
+<td><p>Jan 24</p><i><strong>NO CLASS</strong> Professor at conference</i></td>
+<td><p>Jan 26</p><strong>Course and Student Introductions<br>Overview of Course<br>Assign Show &amp; Tells</strong></td>
 </tr>
 
 <tr>
@@ -31,36 +31,36 @@
 </tr>
 
 <tr>
-<td><td>Feb 5 (Sun)<br><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></td><td></td>
+<td><td><p>Feb 5 (Sun)</p><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></td><td></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td valign="top">Feb 7<br><strong><a href="projects_overeffects.md">Over Effects</a></strong> (Entire Class)</td>
-<td valign="top">Feb 9<br><strong><a href="projects_overeffects.md">Over Effects</a></strong> (Rest of Class)</td>
+<td valign="top"><p>Feb 7</p><strong><a href="projects_overeffects.md">Over Effects</a></strong> (Entire Class)</td>
+<td valign="top"><p>Feb 9</p><strong><a href="projects_overeffects.md">Over Effects</a></strong> (Rest of Class)</td>
 </tr>
 
 <tr>
 <td>4</td>
-<td>Feb 14<br><strong><a href="projects_overeffects.md">Over Effects</a> Redux</strong> (Entire Class)</td>
-<td valign="top">Feb 16<br><strong><a href="projects_overeffects.md">Over Effects</a> Redux</strong> (Rest of Class)</td>
+<td><p>Feb 14</p><strong><a href="projects_overeffects.md">Over Effects</a> Redux</strong> (Entire Class)</td>
+<td valign="top"><p>Feb 16</p><strong><a href="projects_overeffects.md">Over Effects</a> Redux</strong> (Rest of Class)</td>
 </tr>
 
 <tr>
 <td>5</td>
-<td>Feb 21<br><strong><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> (Choose one or the other.)</strong> (Entire Class)</td>
-<td>Feb 23<br><strong><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> (Choose one or the other.)</strong> (Rest of Class)</td>
+<td><p>Feb 21</p><strong><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> (Choose one or the other.)</strong> (Entire Class)</td>
+<td><p>Feb 23</p><strong><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> (Choose one or the other.)</strong> (Rest of Class)</td>
 </tr>
 
 <tr>
 <td>6</td>
-<td>Feb 28<br><strong><a href="projects_self-portrait.md">Self-Portrait</a>) OR <a href="projects_songintonation.md">Song Intonation</a> Redux</strong> (Entire Class)</td>
-<td>Mar 2<br><strong><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> Redux</strong> (Rest of Class)</td>
+<td><p>Feb 28</p><strong><a href="projects_self-portrait.md">Self-Portrait</a>) OR <a href="projects_songintonation.md">Song Intonation</a> Redux</strong> (Entire Class)</td>
+<td><p>Mar 2</p><strong><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> Redux</strong> (Rest of Class)</td>
 </tr>
 
 <td>7</td>
-<td>Mar 7<br>MIDTERM: <strong><a href="projects_retro.md">Retro</a> Research</strong> (Entire Class)</td>
-<td>Mar 9<br>MIDTERM: <strong><a href="projects_retro.md">Retro</a> Research</strong> (Rest of Class)</td>
+<td><p>Mar 7</p>MIDTERM: <strong><a href="projects_retro.md">Retro</a> Research</strong> (Entire Class)</td>
+<td><p>Mar 9</p>MIDTERM: <strong><a href="projects_retro.md">Retro</a> Research</strong> (Rest of Class)</td>
 </tr>
 
 <tr>
@@ -72,50 +72,50 @@
 
 <tr>
 <td>9</td>
-<td>Mar 21<br>MIDTERM: <strong><a href="projects_retro.md">Retro</a></strong> (Entire Class)</td>
-<td>Mar 23<br>MIDTERM: <strong><a href="projects_retro.md">Retro</a></strong> (Rest of Class)</td>
+<td><p>Mar 21</p>MIDTERM: <strong><a href="projects_retro.md">Retro</a></strong> (Entire Class)</td>
+<td><p>Mar 23</p>MIDTERM: <strong><a href="projects_retro.md">Retro</a></strong> (Rest of Class)</td>
 </tr>
 
 <tr>
-<td></td><td>Mar 31 (Fri)<br><i>Last Day to Withdraw</i></td><td></td>
+<td></td><td><p>Mar 31 (Fri)</p><i>Last Day to Withdraw</i></td><td></td>
 </tr>
 
 <tr>
 <td>10</td>
-<td>Mar 28<br>MIDTERM: <strong><a href="projects_retro.md">Retro</a> Redux</strong> (Entire Class)</td>
-<td>Mar 30<br>MIDTERM: <strong><a href="projects_retro.md">Retro</a> Redux</strong> (Rest of Class)</td>
+<td><p>Mar 28</p>MIDTERM: <strong><a href="projects_retro.md">Retro</a> Redux</strong> (Entire Class)</td>
+<td><p>Mar 30</p>MIDTERM: <strong><a href="projects_retro.md">Retro</a> Redux</strong> (Rest of Class)</td>
 </tr>
 <tr>
 <td>11</td>
-<td>Apr 4<br><i><strong><a href="projects_titles.md">Titles</a></strong> (Entire Class)</td>
-<td>Apr 6<br><i><strong><a href="projects_titles.md">Titles</a></strong> (Rest of Class)</td>
+<td><p>Apr 4</p><i><strong><a href="projects_titles.md">Titles</a></strong> (Entire Class)</td>
+<td><p>Apr 6</p><i><strong><a href="projects_titles.md">Titles</a></strong> (Rest of Class)</td>
 </tr>
 <tr>
 <td>12</td>
-<td>Apr 11<br><strong><a href="projects_titles.md">Titles</a> Redux</strong> (Entire Class)</td>
-<td>Apr 13<br><strong><a href="projects_titles.md">Titles</a> Redux</strong> (Rest of Class)</td>
+<td><p>Apr 11</p><strong><a href="projects_titles.md">Titles</a> Redux</strong> (Entire Class)</td>
+<td><p>Apr 13</p><strong><a href="projects_titles.md">Titles</a> Redux</strong> (Rest of Class)</td>
 </tr>
 <tr>
 <td>13</td>
-<td>Apr 18<br><strong><a href="projects_endtag.md">End Tag</a></strong> (Entire Class)</td>
-<td>Apr 20<br><i><strong>NO CLASS</strong></i> Professor out of Town</td>
+<td><p>Apr 18</p><strong><a href="projects_endtag.md">End Tag</a></strong> (Entire Class)</td>
+<td><p>Apr 20</p><i><strong>NO CLASS</strong></i> Professor out of Town</td>
 </tr>
 <tr>
 <td>14</td>
-<td>Apr 25<br><strong><a href="projects_endtag.md">End Tag</a> Redux</strong> (Entire Class)</td>
-<td>Apr 27<br><strong><a href="projects_endtag.md">End Tag</a> Redux</strong> (Rest of Class)</td>
+<td><p>Apr 25</p><strong><a href="projects_endtag.md">End Tag</a> Redux</strong> (Entire Class)</td>
+<td><p>Apr 27</p><strong><a href="projects_endtag.md">End Tag</a> Redux</strong> (Rest of Class)</td>
 </tr>
 
 <tr>
 <td>15</td>
-<td>May 2<br><strong>FINAL: <a href="projects_demoreel.md">Demo Reel</a><strong>(Rest of Class)</td>
-<td>May 4<br><strong>FINAL: <a href="projects_demoreel.md">Demo Reel</a><strong>(Entire Class)</td>
+<td><p>May 2</p><strong>FINAL: <a href="projects_demoreel.md">Demo Reel</a><strong>(Rest of Class)</td>
+<td><p>May 4</p><strong>FINAL: <a href="projects_demoreel.md">Demo Reel</a><strong>(Entire Class)</td>
 </tr>
 
 <tr>
 <td>16</td>
-<td>May 9<br>NYU Reading Day</strong></td>
-<td>May 11<br><strong>FINAL: <a href="projects_demo_reel.md">Demo Reel</strong> Redux</td>
+<td><p>May 9</p>NYU Reading Day</strong></td>
+<td><p>May 11</p><strong>FINAL: <a href="projects_demo_reel.md">Demo Reel</strong> Redux</td>
 </tr>
 
 <tr>
