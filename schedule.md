@@ -71,14 +71,14 @@
 <tr>
 <tr>
 <td>8</td>
-<td valign="top"><strong>Mar 14<br><i>No Class</i> NYU Spring Break</strong></td>
-<td valign="top"><strong>Mar 16<br><i>No Class</i> NYU Spring Break</strong></td>
+<td valign="top"><strong><p>Mar 14</p><i>No Class</i> NYU Spring Break</strong></td>
+<td valign="top"><strong><p>Mar 16</p><i>No Class</i> NYU Spring Break</strong></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><strong><p>Mar 21</p>MIDTERM: <a href="projects_retro.md">Retro</a> (Entire Class)</strong></td>
-<td><strong><p>Mar 23</p>MIDTERM: <a href="projects_retro.md">Retro</a> (Rest of Class)</strong></td>
+<td><p>Mar 21</p>MIDTERM: <a href="projects_retro.md">Retro</a> (Entire Class)</td>
+<td><p>Mar 23</p>MIDTERM: <a href="projects_retro.md">Retro</a> (Rest of Class)</td>
 </tr>
 
 <tr>
@@ -103,7 +103,7 @@
 <tr>
 <td>13</td>
 <td><p>Apr 18</p><a href="projects_endtag.md">End Tag</a> (Entire Class)</td>
-<td><p>Apr 20</p><i>NO CLASS</i> Professor out of Town</td>
+<td><strong><p>Apr 20</p><i>NO CLASS</i> Professor out of Town</strong></td>
 </tr>
 <tr>
 <td>14</td>
@@ -113,8 +113,8 @@
 
 <tr>
 <td>15</td>
-<td><p>May 2</p>FINAL: <a href="projects_demoreel.md">Demo Reel</a>(Rest of Class)</td>
-<td><p>May 4</p>FINAL: <a href="projects_demoreel.md">Demo Reel</a>(Entire Class)</td>
+<td><p>May 2</p>FINAL: <a href="projects_demoreel.md">Demo Reel</a> (Rest of Class)</td>
+<td><p>May 4</p>FINAL: <a href="projects_demoreel.md">Demo Reel</a> (Entire Class)</td>
 </tr>
 
 <tr>
@@ -125,7 +125,7 @@
 
 <tr>
 <td></td>
-<td>May 12 (Fri), May 15 (Mon), May 16 (Tue)<br>Final one on one appointments
+<td><p>May 12 (Fri), May 15 (Mon), May 16 (Tue)</p>Final one on one appointments
 <ul>
 <li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</li>
 <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</li>
