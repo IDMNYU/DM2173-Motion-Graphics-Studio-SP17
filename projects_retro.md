@@ -4,6 +4,8 @@
 
 ### MIDTERM PROJECT: Retro
 
+---
+
 **Retro**	5 seconds	
 * Pick a decade – or a specific year. 
 * Research your decade. If you decide to adventure way back in time (pre-animation!) think about the quality of movement that this decade would dictate.

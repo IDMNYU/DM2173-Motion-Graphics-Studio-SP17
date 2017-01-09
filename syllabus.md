@@ -224,12 +224,12 @@ I will not require any further specific breakdowns. It will be up to you how to 
 All PDFs should be labeled as follows: 
 * FirstnameLastname_assignmentName_date.pdf 
 
-All movies should be labeled as follows: 
-* FirstnameLastname_assignmentName_date.mov 
+All videos should be labeled as follows: 
+* FirstnameLastname_assignmentName_date 
 
-All REVISED movies AND WRITTEN DOCS should be labeled as follows: 
-* FirstnameLastname_assignmentName_REV1_date.mov (OR .pdf)
-* Follow the pattern for iterations of revisions, REV2, REV3, etc.) 
+All REVISED videos AND WRITTEN DOCS should be labeled as follows: 
+* FirstnameLastname_assignmentNameREV#_date (OR .pdf)
+* Follow the pattern for iterations of revisions, REV2, REV3, etc. i.e. deangeladuff_demoreel3_010217) 
 
 
 ### WRITTEN ASSIGNMENTS

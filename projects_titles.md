@@ -4,6 +4,8 @@
 
 ### PROJECT: Opening and End Titles
 
+---
+
 **Opening and End Titles** up to 6 seconds each
 * film/video or animation opening titles and 
 * film/video or animation end titles 

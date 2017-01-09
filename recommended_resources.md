@@ -3,6 +3,9 @@
 #### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
 ### RECOMMENDED BOOKS
+
+---
+
 **Motion Graphics**
 *I highly recommend that you try to obtain a used copy of Moving Type or Motion Design both by Matt Woolman whichever you can find cheaper. Both are out of print.*
 

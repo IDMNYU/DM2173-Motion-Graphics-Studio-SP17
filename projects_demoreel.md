@@ -4,6 +4,8 @@
 
 ### PROJECT: Demo Reel
 
+---
+
 **Demo Reel** 
 As part of your final class presentation, you will be required to polish all 5 of these assignments, and edit them together with audio. 
 * The reel will open or close with your end tag, but the internal sequence is up to you. * Your audio can be a single music track, a combination of music and sound effects where appropriate.

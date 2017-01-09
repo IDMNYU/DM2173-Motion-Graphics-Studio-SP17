@@ -4,6 +4,8 @@
 
 ### PROJECT: OVEREFFECTS
 
+---
+
 **Overeffects: Place**	15 seconds	
 The purpose of this assignment is to exhaustively explore all of the effects in After Effects. The purpose is NOT to create something beautiful. You can do that for the second iteration. **Think of it as effects vomit.**
 
