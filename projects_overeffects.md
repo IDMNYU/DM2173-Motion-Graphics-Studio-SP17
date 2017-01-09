@@ -4,18 +4,11 @@
 
 ### PROJECT: OVEREFFECTS
 
-All motion graphics assignments should be exported, rendered, and uploaded to http://vimeo.com and http://dropbox.com as follows
-Vimeo
-* The aspect ratio should be 16:9, 29.97
-* Post lo-res to vimeo for class: 640x 360
-* COMPRESSION TYPE: MPEG-4
-* Post with these tags **MGS, IDM, NYU**
-
 **Overeffects: Place**	15 seconds	
 The purpose of this assignment is to exhaustively explore all of the effects in After Effects. The purpose is NOT to create something beautiful. You can do that for the second iteration. **Think of it as effects vomit.**
 
 * Shoot digital video or photograph to document a place of your choosing.
-* Record the natural sound of the environment.
+* Record the natural sound of the environment, also.
 * Edit the footage down to 30 seconds.
 * Take the edited footage and “overprocess” it in After Effects.
 * Use multiple effects and filters to remove the imagery from its initial recognizability, and take it toward an abstract, emotional realm
@@ -24,4 +17,23 @@ The purpose of this assignment is to exhaustively explore all of the effects in 
 
 **Overeffects: Place Redux**	15 seconds	
 * Iterate the previous assignment to use effects purposefully and strategically. 
-* See Specifications from the original homework assignment.
+
+
+---
+
+Make sure your video files are named as follows:
+* FirstnameLastname_overeffects_date
+* FirstnameLastname_overeffects2_date
+
+All motion graphics assignments should be exported, rendered, and uploaded to http://vimeo.com and google drive as follows:
+
+Vimeo
+* The aspect ratio should be 16:9, 29.97
+* Post lo-res to vimeo for class: 640x 360
+* COMPRESSION TYPE: MPEG-4
+* Post with these tags **MGS, IDM, NYU**
+
+Google Drive
+* Export hi-res for deliverables: 1920x1080
+* COMPRESSION TYPE: H264
+* Upload hi-res version to google drive folder by end of semester (see [end of semester deliverables](end_of_semester_deliverables.md).)

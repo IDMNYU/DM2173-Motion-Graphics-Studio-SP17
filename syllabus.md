@@ -28,17 +28,20 @@ Motion graphics can be found in a wide range of media: broadcast, web, animation
 
 The following Integrated Digital Media program goals are introduced and reinforced within this course. Students will:
 
-* develop conceptual thinking skills to generate ideas and content in order to solve problems or create opportunities.
-* develop a research and studio practice through inquiry and iteration.
-* develop critical thinking skills that will allow them to analyze and position their work within cultural, historical, aesthetic, economic, and technological contexts.
-* develop collaboration skills to actively and effectively work in a team or group.
+* develop **conceptual thinking skills** to generate ideas and content in order to solve problems or create opportunities.
+    * develop a research and studio practice through inquiry and iteration.
+* Students will develop **technical skills** to realize their ideas.
+    * Students will understand and utilize tools and technology, while adapting to constantly changing technological paradigms by learning how to learn.
+    * Students will be able to integrate/interface different technologies within a technological ecosystem.   
+* develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historical, aesthetic, economic, and technological contexts.
+* develop **collaboration skills** to actively and effectively work in a team or group.
 
 ### COURSE GOALS
 
-* An introduction to designing for time and space including animation, special effects, and compositing
+* An introduction to designing for time and space including 2D animation, special effects, and compositing
 * Increased competency in visual communication problem solving through research, practice, and evaluation
 * An increased understanding of the iterative process
-* An Introduction to Adobe After Effects
+* An introduction to Adobe After Effects
 * Increased competency in Adobe Illustrator and Adobe Photoshop
 
 ### LEARNING OUTCOMES
@@ -47,13 +50,25 @@ By the end of the course, students will be able to create motion graphics for a 
 
 ### CLASS FORMAT
 
-The class will consist of lectures, screenings, show & tells, demos, and critiques. 
+Class will be comprised of lectures, screenings, show & tells, demos, and critiques. We will also have a guest speaker or field trip (Date to be determined).
 
 Critiques are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
+Rules of the Critique:
+* Be Present and Engaged
+* Give Feedback to your classmates
+* Do NOT take feedback personally.
+
 ### TECHNOLOGY
 
-This class is about motion graphics and visual concepts first and foremost & technology second. Through lectures, video tutorials, & demos, we will cover many important technical issues, but—as in the professional world—the burden of technology will always lie squarely on the designer’s shoulders. Community tech sharing is highly advised as well. Use your resources!
+This class is about motion graphics and visual concepts first and foremost & technology second. Through lectures, video tutorials, & demos, we will cover many important technical issues, but—as in the professional world—the burden of technology will always lie squarely on the designer’s shoulders. Community tech sharing is highly advised as well. In this syllabus, I have listed several helpful resources to help you get up to speed with technology. Use your resources!
+
+Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings, your laptops should not be used.
+
+### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
+
+* Direct message on Slack about logistics (when, where, how many?) ONLY
+* Talk to me in person directly after class or set up an appointment about issues and problems. DO NOT direct message long conversations. (If your direct message turns into paragraphs that means you should be talking to me in person not direct messaging me.)
 
 ### STUDENT RESPONSIBILITIES
 
@@ -67,8 +82,6 @@ This class is about motion graphics and visual concepts first and foremost & tec
 * Submit a portfolio of work spanning the duration of class.
 * Action – do your absolute best
 * Strive for continuous improvement
-* Direct message me on slack re: contact about logistics (when, where, how many?) only
-* Talk to me in person about issues and problems. Do not direct message me long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have patience, persistence, and discipline
 * Be creative
@@ -103,6 +116,7 @@ Your grade for the course will be based on the following:
 * 10% After Effects Diary
 * 05% Show & Tell / Reverse Storyboard
 * 05% Midterm and Final Self-Assessment
+* Letter to the Next Cohort
 
 The midterm and final project grade will be based on the following:
 
@@ -150,7 +164,6 @@ If you are student with a disability who is requesting accommodations, please co
 
 * Laptop
 * Digital Storage (Jump Drives, Firewire Drive, Laptop, etc)
-* High Definition Digital Video Camera
 
 ### REQUIRED SOFTWARE
 
@@ -198,9 +211,7 @@ uploaded to your Vimeo account. Make sure you ALWAYS use these three tags: **MGS
 All projects should be arranged as follows: 
 * The root folder should be the PROJECT NAME. Inside your root folder:
 * AEP (for all AfterEffects projects, please increment your projects as you save!)
-* SOURCE (for all of your source files, you may organize your own structure within depending on
-the needs of your project)(after effects, illustrator, photoshop, etc). Make sure that any type in
-illustrator has been converted to outlines
+* SOURCE (for all of your source files, you may organize your own structure within depending on the needs of your project)(after effects, illustrator, photoshop, etc). Make sure that any type in illustrator has been converted to outlines
 * DESIGN (for all of your storyboards and style frame comps)
 * DRAFTS (for all elements submitted for critiques)
 * FINAL 
@@ -229,29 +240,25 @@ Any printed assignments should always contain the following and uploaded to the 
 * Spring 2017
 * Title of project or assignment
 
-Written assignments will be assigned frequently. These will typically involve writing about your work, learning how to use motion graphics terminology correctly and efficiently to describe your ideas. Be prepared to share your writing in class, as well as hand in your work via email, as a PDF document attachment, PRIOR to the start of the class at which it is due. 
-
-Your writing should be clear, concise, and free of spelling and grammatical errors. Entries should question or discuss the assigned reading by using supporting research and/or examples to reinforce your argument or thesis. Possible examples could be from current media, events, class discussions, your classmates’ logs, and your own personal experience. Entries are graded using
-the following criteria: level of insight and reflection, support provided for the observations and conclusions, the extent to which relevant course content (from class and the text) is integrated into the entries. 
-
-Written assignments must be submitted no later than 1 week past due to be considered towards the final grade. Unless you are absent with prior notice on the date the written assignment is due, 20% of the grade for each assignment will be automatically deducted.
+Written assignments will be assigned frequently. These will typically involve writing about your work, learning how to use motion graphics terminology correctly and efficiently to describe your ideas. Be prepared to share your writing in class, as well as hand in your work via slack as a PDF document, PRIOR to the start of the class at which it is due. 
 
 ### ASSIGNMENTS
 * [Show & Tells](show_and_tells.md)
 * [Process Documentation](process_documentation.md)
 * [After Effects Diary](after_effects_diary.md)
 * [Midterm and Final Self Assessments](self_assessments.md)
+* [Letter to Next Cohort](letter.md)
 
 ### PROJECTS
 These projects are meant to develop and refine your skills as a designer and animator. You are responsible for learning any software skills and techniques necessary to bring your ideas to life. 
 
 You will be required to write a “brief” for each assignment, PRIOR to beginning the actual work, which will lay out your concept and creative direction!
 * [Over Effects](projects_overeffects.md)
-* [Self-Portrait](projects_self-portrait.md) OR [Song Intonation](projects_songintonation.md) (Choose one or the other.)
-* [Retro](projects_retro.md)
+* [Self-Portrait](projects_self-portrait.md) OR [Song Intonation](projects_songintonation.md) (Choose one or the other. Do not do both.)
+* [Midterm: Retro](projects_retro.md)
 * [Titles](projects_titles.md)
 * [End Tag](projects_endtag.md)
-* [Demo Reel](projects_demoreel.md)
+* [Final: Demo Reel](projects_demoreel.md)
 
 ### [SCHEDULE](schedule.md)
 See Appendix

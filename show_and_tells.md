@@ -3,7 +3,7 @@
 #### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
 ### SHOW & TELLS & REVERSE STORYBOARD
-* During the 1st or 2nd class period, you will either volunteer for or be assigned from the list below or discuss an alternate choice that is not on the list with the professor. During the preceding week, the show & tell(s) that will be due the following week will be announced. 
+* You will either volunteer for or be assigned from the list below or discuss an alternate choice that is not on the list with the professor. During the preceding week, the show & tell(s) that will be due the following week will be announced. 
 * Bring in at least 3 or more (or a reel) examples of the work of your chosen artist, designer, director, filmmaker, or company on video or DVD or as digitized footage (i.e. quicktime). Try to obtain hi-res footage if at all possible.
 * Be familiar with a brief bio and be prepared to CRITICALLY discuss your assigned artist, designer, director, filmmaker, or company and their supporting footage in a dynamic presentation in front of the class
 * Select one of the 3 examples of their work to reverse storyboard, by getting screenshots of three key frames. Analyze these key frames using vocabulary from Motion Design by Matt Woolman. **Upload this reverse storyboard as a pdf with the 3 screenshots and written analysis to the MGS slack channel.**

@@ -4,9 +4,11 @@
 
 ### RECOMMENDED BOOKS
 **Motion Graphics**
+*I highly recommend that you try to obtain a used copy of Moving Type or Motion Design both by Matt Woolman whichever you can find cheaper. Both are out of print.*
+
 * Motion Graphic Design: Applied History and Aesthetics by Jon Krasner
-* Moving Type: Designing for Time and Space by Matt Woolman & Jeff Bellantoni [NOTE: This is the 1st edition of the Motion Design book below.]
-* Motion Design by Matt Woolman (This is out of print. You can buy a copy of it on http://amazon.com used, but it is quite expensive.)
+* Moving Type: Designing for Time and Space by Matt Woolman & Jeff Bellantoni [NOTE: This is the 1st edition of the Motion Design book below. (This is out of print. You can buy a copy of it on http://amazon.com used.)]
+* Motion Design by Matt Woolman (This is out of print. You can buy a copy of it on http://amazon.com used.)
 * Lowfat: A Visual Journey Taking You to 96 Hot Motion Graphic Destinations by Gary Lau
 * Motion by Design by Spencer Drate
 * Type in Motion: Innovations in Digital Graphics by Jeff Bellantoni and Matt Woolman
@@ -61,7 +63,7 @@ http://lynda.com
 http://greyscalegorilla.com/intro-to-cinema-4d
 * AE Scripts/AE Plugins – http://aescripts.com
 
-Motion Graphics
+**Motion Graphics**
 * The Art of the Title Sequence – http://www.artofthetitle.com
 * Forget the Film, Watch the Title – 
 http://www.watchthetitles.com 
@@ -73,7 +75,6 @@ http://www.gomediazine.com/industry-insights/28-staple-blogs-motion-graphic-arti
 * GreyscaleGorilla – http://greyscalegorilla.com/blog/ 
 * Mograph Wiki - http://www.mographwiki.net
 * Motion.tv – http://motion.tv
-* Book Companion: Motion Design – http://orbitfinder.com/motiondesign
 
 **Color**
 * Kuler – http://kuler.adobe.com

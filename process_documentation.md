@@ -6,10 +6,11 @@
 Your process, the steps you take to visually and aurally conceptualize your final project, needs to be documented for evaluation. The documentation sketchbook that contains any materials, including sketches, inspirational findings, etc.
 
 ### THE DESIGN PROCESS
-Each assignment in this course will present a challenging encounter with creative problem solving. To successfully complete each assignment, you will need to learn how to negotiate the subtle relationships between content and form: content being what you want to say, and form how you choose to say it. The two are brought together cohesively through the design process, steps taken before arriving at a finished design solution. The design process consists of three
-phases: research, design, & build. 
+Each assignment in this course will present a challenging encounter with creative problem solving. To successfully complete each assignment, you will need to learn how to negotiate the subtle relationships between content and form: content being what you want to say, and form how you choose to say it. The two are brought together cohesively through the design process, steps taken before arriving at a finished design solution. 
 
-DEFINE THE PROBLEM AND ESTABLISH YOUR GOAL !
+The design process consists of three phases: research, design, & build. However, before you can begin the design process you must define the problem and establish your goal.
+
+####DEFINE THE PROBLEM AND ESTABLISH YOUR GOAL 
 Once given the assignment, you need to define your objectives. Carefully consider the following questions: What is the desired result or goal of the project? What is the message? Who is it for?
 What format can best express the message?
 
@@ -18,9 +19,9 @@ What format can best express the message?
 It is impossible to solve a problem you don’t understand! Learn about the subject at hand. Look for parallels in other fields, subjects, time periods, and industries. The more information you collect from multiple sources, the more associations you can make between them. 
 * Develop Your Ideas by Brainstorming. 
 Brainstorming is an idea-generating process based on free association that uses a written
-record of verbalized ideas. Start by making word lists of everything that relates to your subject.
-These lists can help you explore the trail of thoughts influenced by your research.
-Another effective brainstorming method is verbal diagramming or “thought mapping.” Place a key word in the middle of a piece of paper and branch out in all directions as you write down other ideas that are related to the initial word. This approach lets you picture the structure of your thinking.
+record of verbalized ideas. 
+    * Start by making word lists of everything that relates to your subject. These lists can help you explore the trail of thoughts influenced by your research.
+    * Another effective brainstorming method is verbal diagramming or “**thought mapping**.” Place a key word in the middle of a piece of paper and branch out in all directions as you write down other ideas that are related to the initial word. This approach lets you picture the structure of your thinking.
 
 **Motion Design Workflow**
 

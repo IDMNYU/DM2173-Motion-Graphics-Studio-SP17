@@ -2,20 +2,7 @@
 
 #### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
-### PROJECT: Retro
-
-All motion graphics assignments should be exported, rendered, and uploaded as lo-res to http://vimeo.com and hi-res to Google Drive or Dropbox as follows:
-
-Vimeo
-* The aspect ratio should be 16:9, 29.97
-* Post lo-res to vimeo for class: 640x360 or 1280x720
-* COMPRESSION TYPE: MPEG-4
-* Post with these tags **MGS, IDM, NYU**
-
-Google Drive or Dropbox
-* Export hi-res for deliverables: 1920x1080
-* COMPRESSION TYPE: H264 Full Quality
-* Upload hi-res version to MGS dropbox deangela@gmail.com
+### MIDTERM PROJECT: Retro
 
 **Retro**	5 seconds	
 * Pick a decade – or a specific year. 
@@ -25,3 +12,22 @@ Google Drive or Dropbox
 
 **Retro Redux**	5 seconds	
 Iterate the previous assignment.
+
+---
+
+Make sure your video files are named as follows:
+* FirstnameLastname_midterm_retro_date
+* FirstnameLastname_midterm_retro2_date
+
+All motion graphics assignments should be exported, rendered, and uploaded to http://vimeo.com and google drive as follows:
+
+Vimeo
+* The aspect ratio should be 16:9, 29.97
+* Post lo-res to vimeo for class: 640x 360
+* COMPRESSION TYPE: MPEG-4
+* Post with these tags **MGS, IDM, NYU**
+
+Google Drive
+* Export hi-res for deliverables: 1920x1080
+* COMPRESSION TYPE: H264
+* Upload hi-res version to google drive folder by end of semester (see [end of semester deliverables](end_of_semester_deliverables.md).)

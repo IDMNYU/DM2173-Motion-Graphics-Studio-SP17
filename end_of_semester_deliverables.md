@@ -5,22 +5,13 @@
 ### END OF SEMESTER DELIVERABLES
 # THIS IS A DRAFT. NOT ACCURATE.
 
-VIDEOS
-1. Your Demo Reel, comprised of all of your projects, edited together with your logo tag at the start or tail, depending on your preference. You can use the entirety of your projects, or edit the best parts.
-*ALL MUST BE POSTED TO VIMEO AND DONE PROCESSING PRIOR TO YOUR CRIT TIME.*
+### Create a google drive folder labeled your first and last name MGS Spring 2017 (i.e. De Angela Duff MGS Spring 2017) and share with deangela.duff@nyu.edu
 
-PDFS
-1. Your Final Self-Assessment.
-2. Your After Effects Diary.
-3. Your PDF briefs.
+with the following files:
+* Your Final Self-Assessment
+* Your PDF Briefs
 
-ALL MUST BE SUBMITTED BY TIME & DAY TBD. I WILL NOT BE REVIEWING ANYTHING SUBMITTED BEYOND THIS TIME.*
-
-
-MGS Google Drive:
-
-* A folder labeled your first and last name MGS Spring 2017 (i.e. De Angela Duff MGS Spring 2017)
-* within this folder, folders with the following names:
+and folders:
     * 1 demo reel final
     * 2 demo reel draft
     * 3 overeffects
@@ -36,20 +27,21 @@ MGS Google Drive:
  
 
 Make sure your quicktime files are named as follows:
-* YourFirstname_overeffects.mov
-* YourFirstname_overeffects2.mov
-* YourFirstname_selfportrait.mov or YourFirstname_songintonation.mov
-* YourFirstname_selfportrait2.mov or YourFirstname_songintonation2.mov
-* YourFirstname_retro.mov
-* YourFirstname_retro2.mov
-* YourFirstname_openingtitle.mov
-* YourFirstname_openingtitle2.mov
-* YourFirstname_endtitle.mov
-* YourFirstname_endtitle2.mov
-* YourFirstname_endtag.mov
-* YourFirstname_endtag2.mov
-* YourFirstname_final_demoreel.mov
-* YourFirstname_final_demoreel2.mov
+*(if you have more than one revision, include those as well.)*
+* FirstnameLastname_overeffects_date.mov
+* FirstnameLastname_overeffects2_date.mov
+* FirstnameLastname_selfportrait_date.mov or YourFirstname_songintonation_date.mov
+* FirstnameLastname_selfportrait2_date.mov or YourFirstname_songintonation2_date.mov
+* FirstnameLastname_midterm_retro_date.mov
+* FirstnameLastname_midterm_retro2_date.mov
+* FirstnameLastname_openingtitle_date.mov
+* FirstnameLastname_openingtitle2_date.mov
+* FirstnameLastname_endtitle_date.mov
+* FirstnameLastname_endtitle2_date.mov
+* FirstnameLastname_endtag_date.mov
+* FirstnameLastname_endtag2_date.mov
+* FirstnameLastname_final_demoreel_date.mov
+* FirstnameLastname_final_demoreel2_date.mov
 
 
 The aspect ratio should be based on 16:9
