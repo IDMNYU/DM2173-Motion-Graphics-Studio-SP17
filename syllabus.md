@@ -251,7 +251,7 @@ Written assignments will be assigned frequently. These will typically involve wr
 ### PROJECTS
 These projects are meant to develop and refine your skills as a designer and animator. You are responsible for learning any software skills and techniques necessary to bring your ideas to life. 
 
-You will be required to write a “brief” for each assignment, PRIOR to beginning the actual work, which will lay out your concept and creative direction!
+You will be required to write a “brief” for each project (EXCEPT for the over effects projects), PRIOR to beginning the actual work, which will lay out your concept and creative direction!
 * [Over Effects](projects_overeffects.md)
 * [Self-Portrait](projects_self-portrait.md) OR [Song Intonation](projects_songintonation.md) (Choose one or the other. Do not do both.)
 * [Midterm: Retro](projects_retro.md)
