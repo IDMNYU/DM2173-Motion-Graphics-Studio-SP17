@@ -26,8 +26,8 @@
 
 <tr>
 <td>2</td>
-<td>Jan 31<br><strong><a href="show_and_tells.md">Show &amp; Tells</a></strong></td>
-<td valign="top">Feb 2<br><strong><a href="show_and_tells.md">Show &amp; Tells</a></strong><br><br></td>
+<td><p>Jan 31</p><strong><a href="show_and_tells.md">Show &amp; Tells</a></strong></td>
+<td valign="top"><p>Feb 2</p><strong><a href="show_and_tells.md">Show &amp; Tells</a></strong><br><br></td>
 </tr>
 
 <tr>
