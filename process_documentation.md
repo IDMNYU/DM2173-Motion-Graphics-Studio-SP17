@@ -21,7 +21,7 @@ It is impossible to solve a problem you don’t understand! Learn about the subj
 Brainstorming is an idea-generating process based on free association that uses a written
 record of verbalized ideas. 
     * Start by making word lists of everything that relates to your subject. These lists can help you explore the trail of thoughts influenced by your research.
-    * Another effective brainstorming method is verbal diagramming or “**thought mapping**.” Place a key word in the middle of a piece of paper and branch out in all directions as you write down other ideas that are related to the initial word. This approach lets you picture the structure of your thinking.
+    * Another effective brainstorming method is verbal diagramming or **thought mapping**. Place a key word in the middle of a piece of paper and branch out in all directions as you write down other ideas that are related to the initial word. This approach lets you picture the structure of your thinking.
 
 **Motion Design Workflow**
 
@@ -29,8 +29,7 @@ record of verbalized ideas.
 Either digital or traditional collection of images (or audio) which explore the desired aesthetic. These can be literal or abstract, they can represent color palettes, shapes, ideas, concepts, etc. They can be anything, analog or digital, or a combination of both.
 
 * **Concept Description / Written Brief**
-A written description of the concept. This should include your sources of inspiration, any creative reasoning behind your proposal, description of the connections between your visuals and your audio, a concise, clear description of how you intend to solve the visual problem presented by the project, any design notes, etc. Remember that this is a part of your “pitch” - use this to convince your audience that your design decisions are intentional and will effectively
-communicate the idea. 
+A written description of the concept. This should include your sources of inspiration, any creative reasoning behind your proposal, description of the connections between your visuals and your audio, a concise, clear description of how you intend to solve the visual problem presented by the project, any design notes, etc. Remember that this is a part of your “pitch” - use this to convince your audience that your design decisions are intentional and will effectively communicate the idea. 
 
 * **Storyboards**
 

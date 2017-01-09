@@ -26,20 +26,20 @@ and folders:
     * 12 endtag redux
  
 
-Make sure your quicktime files are named as follows:
+Make sure your video files are named as follows:
 *(if you have more than one revision, include those as well.)*
-* FirstnameLastname_overeffects_date.mov
-* FirstnameLastname_overeffects2_date.mov
-* FirstnameLastname_selfportrait_date.mov or YourFirstname_songintonation_date.mov
-* FirstnameLastname_selfportrait2_date.mov or YourFirstname_songintonation2_date.mov
-* FirstnameLastname_midterm_retro_date.mov
-* FirstnameLastname_midterm_retro2_date.mov
-* FirstnameLastname_openingtitle_date.mov
-* FirstnameLastname_openingtitle2_date.mov
-* FirstnameLastname_endtitle_date.mov
-* FirstnameLastname_endtitle2_date.mov
-* FirstnameLastname_endtag_date.mov
-* FirstnameLastname_endtag2_date.mov
+* FirstnameLastname_overeffects_date
+* FirstnameLastname_overeffects2_date
+* FirstnameLastname_selfportrait_date or FirstnameLastname_songintonation_date.mov
+* FirstnameLastname_selfportrait2_date or FirstnameLastname_songintonation2_date.mov
+* FirstnameLastname_midterm_retro_date
+* FirstnameLastname_midterm_retro2_date
+* FirstnameLastname_openingtitle_date
+* FirstnameLastname_openingtitle2_date
+* FirstnameLastname_endtitle_date
+* FirstnameLastname_endtitle2_date
+* FirstnameLastname_endtag_date
+* FirstnameLastname_endtag2_date
 * FirstnameLastname_final_demoreel_date.mov
 * FirstnameLastname_final_demoreel2_date.mov
 

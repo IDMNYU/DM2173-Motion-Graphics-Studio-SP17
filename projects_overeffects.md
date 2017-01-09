@@ -6,7 +6,7 @@
 
 ---
 
-**Overeffects: Place**	15 seconds	
+**Overeffects: Place** 15 seconds	
 The purpose of this assignment is to exhaustively explore all of the effects in After Effects. The purpose is NOT to create something beautiful. You can do that for the second iteration. **Think of it as effects vomit.**
 
 * Shoot digital video or photograph to document a place of your choosing.
@@ -17,7 +17,7 @@ The purpose of this assignment is to exhaustively explore all of the effects in 
 * Consider the limitations of using given/effects, the value of combining several effects, and the process of indulging in the program’s capabilities by deliberately overusing effects.
 * Alter the sound using After Effects’ audio effects
 
-**Overeffects: Place Redux**	15 seconds	
+**Overeffects: Place Redux** 15 seconds	
 * Iterate the previous assignment to use effects purposefully and strategically. 
 
 

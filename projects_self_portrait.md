@@ -2,12 +2,14 @@
 
 #### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
-### PROJECT: Self-Portrait
-Please note that this project is optional. Choose this project or the [Song Intonation](projects_songintonation.md) project. Do not do both.
+### PROJECT: SELF-PORTRAIT
+
+---
+
+*Please note that this project is optional. Choose this project or the [Song Intonation](projects_songintonation.md) project. Do not do both.*
 
 **Self-Portrait** 5 seconds
-Make a five second motion graphics piece about yourself. What you like, what you do, what you know, what you LOVE. Anything really.
-Just make it personal.
+Make a five second motion graphics piece about yourself. What you like, what you do, what you know, what you LOVE. Anything really. Just make it personal.
 
 **Self-Portrait Redux** 5 seconds   
 

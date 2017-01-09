@@ -20,8 +20,8 @@
 
 <tr>
 <td>1</td>
-<td>Jan 24<br><i><strong>NO CLASS</strong> Professor at conference</i></td>
-<td>Jan 26<br><strong>Course and Student Introductions<br>Overview of Course<br>Assign Show &amp; Tells</strong></td>
+<td>Jan 24<br><br><i><strong>NO CLASS</strong> Professor at conference</i></td>
+<td>Jan 26<br><br><strong>Course and Student Introductions<br>Overview of Course<br>Assign Show &amp; Tells</strong></td>
 </tr>
 
 <tr>

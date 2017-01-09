@@ -2,7 +2,10 @@
 
 #### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
-### PROJECT: Song Intonation
+### PROJECT: SONG INTONATION
+
+---
+
 Please note that this project is optional. Choose this project or the [Self-Portrait](projects_self-portrait.md) project. Do not do both.
 
 **Song Intonation** up to 10 seconds

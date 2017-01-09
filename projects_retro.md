@@ -2,11 +2,11 @@
 
 #### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
-### MIDTERM PROJECT: Retro
+### MIDTERM PROJECT: RETRO
 
 ---
 
-**Retro**	5 seconds	
+**Retro** 5 seconds	
 * Pick a decade – or a specific year. 
 * Research your decade. If you decide to adventure way back in time (pre-animation!) think about the quality of movement that this decade would dictate.
 * Use a wide variety of assets AND techniques and composite a piece which explores the design aesthetic of the era. This includes not just design elements, but your choice of images/video and effects. Your piece can have a historic storytelling aspect (1969, Apollo landing on the Moon!) which can drive the imagery, or you can be more abstract. Your piece MUST include typography!

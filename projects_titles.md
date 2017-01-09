@@ -2,7 +2,7 @@
 
 #### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
-### PROJECT: Opening and End Titles
+### PROJECT: OPENING AND END TITLES
 
 ---
 
