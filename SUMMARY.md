@@ -13,6 +13,5 @@
 * [Project: Beginning and End Titles](projects_titles.md)
 * [Assigment: Self Assessments](self_assessments.md)
 * [Assignment: After Effects Diary](after_effects_diary.md)
-* [Schedule](schedule.md)
 * [Recommended Resources](recommended_resources.md)
 
