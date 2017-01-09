@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Syllabus](syllabus.md)
-* [Recommended Resources](recommended_resources.md)
+* [Schedule](schedule.md)
 * [Assignment: Show and Tells & Reverse Storyboards](show_and_tells.md)
 * [Project: Demo Reel](projects_demoreel.md)
 * [Project: End Tag](projects_endtag.md)
@@ -13,5 +13,6 @@
 * [Project: Beginning and End Titles](projects_titles.md)
 * [Assigment: Self Assessments](self_assessments.md)
 * [Assignment: After Effects Diary](after_effects_diary.md)
-* [Assignment: Letter to the Next Cohort](letter.md)
+* [Schedule](schedule.md)
+* [Recommended Resources](recommended_resources.md)
 
