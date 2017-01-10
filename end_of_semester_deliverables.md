@@ -8,10 +8,19 @@
 
 ### Create a google drive folder labeled as MGS Spring 2017 your first and last name (i.e. MGS Spring 2017 De Angela Duff) and share with deangela.duff@nyu.edu
 
-with the following files:
+with the following folder
+* process documentation
+
+with a correpsponding folder for the following projects with their corresponding files.
+* self-portrait or song intonation
+* midterm retro
+* titles
+* endtag
+* final demo reel 
+
+and following files:
 * Your Final and Midterm Self-Assessments
 * Letter or video to next cohort
-* Your Process Documentation 
 * FirstnameLastname_overeffects_date
 * FirstnameLastname_overeffects2_date
 * FirstnameLastname_selfportrait_date or FirstnameLastname_songintonation_date.mov

@@ -4,7 +4,7 @@
 * [Syllabus](syllabus.md)
 * [Schedule](schedule.md)
 
-Assignments:
+
 * [End of Semester Deliverables](end_of_semester_deliverables.md)
 * [Show & Tell / Reverse Storyboard](show_and_tells.md)
 * [Process Documentation](process_documentation.md)
@@ -12,7 +12,7 @@ Assignments:
 * [Midterm and Final Self Assessments](self_assessments.md)
 * [Letter or Video to Next Cohort](letter.md)
 
-Projects:
+
 * [Over Effects](projects_overeffects.md)
 * [Self-Portrait](projects_self-portrait.md) OR [Song Intonation](projects_songintonation.md) (Choose one or the other. Do not do both.)
 * [Midterm: Retro](projects_retro.md)
@@ -20,7 +20,7 @@ Projects:
 * [End Tag](projects_endtag.md)
 * [Final: Demo Reel](projects_demoreel.md)
 
-Resources:
+
 * [Recommended Resources](recommended_resources.md)
 * [Success Checklist](success.md)
 
