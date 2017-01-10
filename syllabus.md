@@ -101,7 +101,7 @@ These projects are meant to develop and refine your skills as a designer and ani
 You will be required to [write a “brief” for each assignment](process_documentation.md), (EXCEPT for the over effects projects), PRIOR to beginning the actual work, which will lay out your concept and creative direction!
 
 * 10% [Over Effects](projects_overeffects.md)
-* 10% [Self-Portrait](projects_self-portrait.md) OR [Song Intonation](projects_songintonation.md) (Choose one or the other. Do not do both.)
+* 10% [Self-Portrait](projects_self_portrait.md) OR [Song Intonation](projects_song_intonation.md) (Choose one or the other. Do not do both.)
 * 10% [Titles](projects_titles.md)
 * 10% [End Tag](projects_endtag.md)
 * 10% [Midterm: Retro Project](projects_retro.md)
