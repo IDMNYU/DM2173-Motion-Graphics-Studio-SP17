@@ -10,7 +10,7 @@
 
 * For your final class presentation during finals week, you will be required to polish 3 of your major projects (self-portrait or song intonation, retro (the midterm), and titles), and edit them together with audio. 
 * The reel will open or close with your end tag, but the internal sequence is up to you.
-* Your audio can be a single music track, or a combination of music and sound effects where appropriate.
+* Your audio can be a single music track, or a combination of music and sound effects where appropriate. The final audio should be original or royalty free.
 
 **Demo Reel Final**      
 * Iterate the previous assignment.
