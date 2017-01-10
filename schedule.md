@@ -1,5 +1,4 @@
 # DM-UY 2173 Motion Graphics Studio
-
 ##### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
 ### SCHEDULE
@@ -61,19 +60,19 @@
 <tr>
 <td>4</td>
 <td><p>Feb 14</p><a href="projects_overeffects.md">Over Effects</a></td>
-<td valign="top"><p>Feb 16</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> (Choose one or the other. Not both.) <a href="process_documentation.md">Research and Design</a></td>
+<td valign="top"><p>Feb 16</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a>: <a href="process_documentation.md">Research and Design</a> <ul><li>(Choose one or the other. Not both.)</li></ul></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><p>Feb 21</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> Redux <ul><li>(Choose one or the other. Not both.)</li></ul> </td>
-<td><p>Feb 23</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> Redux <ul><li>(Choose one or the other. Not both.)</li></ul> </td>
+<td><p>Feb 21</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> Redux</td>
+<td><p>Feb 23</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> Redux</td>
 </tr>
 
 <tr>
 <td>6</td>
 <td><p>Feb 28</p><a href="projects_self-portrait.md">Self-Portrait</a>) OR <a href="projects_songintonation.md">Song Intonation</a> Redux (Entire Class)</td>
-<td><p>Mar 2</p>MIDTERM: <a href="projects_retro.md">Retro</a> <a href="process_documentation.md">Research and Design</a></td>
+<td><p>Mar 2</p>MIDTERM: <a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 
 <td>7</td>
@@ -99,7 +98,7 @@
 <tr>
 <td>10</td>
 <td><strong><p>Mar 28</p>MIDTERM: <a href="projects_retro.md">Retro</a></strong></td>
-<td><p>Mar 30</p><a href="projects_titles.md">Titles</a> <a href="process_documentation.md">Research and Design</a></td>
+<td><p>Mar 30</p><a href="projects_titles.md">Titles</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 
 <tr>
@@ -114,7 +113,7 @@
 <tr>
 <td>12</td>
 <td><p>Apr 11</p><a href="projects_titles.md">Titles</a> Redux</td>
-<td><p>Apr 13</p><a href="projects_endtag.md">End Tag</a> <a href="process_documentation.md">Research and Design</a></td>
+<td><p>Apr 13</p><a href="projects_endtag.md">End Tag</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 <tr>
 <td>13</td>
@@ -124,7 +123,7 @@
 <tr>
 <td>14</td>
 <td><p>Apr 25</p><a href="projects_endtag.md">End Tag</a> Redux</td>
-<td><p>Apr 27</p><a href="projects_demoreel.md">Demo Reel</a> <a href="process_documentation.md">Research and Design</a></td>
+<td><p>Apr 27</p><a href="projects_demoreel.md">Demo Reel</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 
 <tr>
@@ -135,8 +134,8 @@
 
 <tr>
 <td>16</td>
-<td><p>May 9</p>NYU Reading Day</td>
-<td><strong><p>May 11</p>FINAL: <a href="projects_demo_reel.md">Demo Reel Redux</a></strong></td>
+<td><p>May 9</p><strong><i>NO CLASS</i> NYU Reading Day</strong></td>
+<td><strong><p>May 11</p>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
 </tr>
 
 <tr>
@@ -152,4 +151,4 @@
 
 </table>
 
-Guest Speaker TBD
+Guest Speaker or Field Trip TBD
