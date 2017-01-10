@@ -10,21 +10,21 @@ Please note that this project is optional. Choose this project or the [Self-Port
 
 **Song Intonation** up to 10 seconds
 
-Select a song that lends itself to creative visual intonation. Allow the intonation
+* Select a song that lends itself to creative visual intonation. Allow the intonation
 (aka modulation) of the music or a singer’s voice to dictate the kinetics (or motion) and transitions of the movement.
 
 Specifications:
-• Type must be dominant
-• Type can be point, outlined, plane, or hand-drawn (see Motion Design
+* Type must be dominant
+* Type can be point, outlined, plane, or hand-drawn (see Motion Design
 032-033)
-• Support imagery such as lines, shapes, and fragmented letterforms are
+* Support imagery such as lines, shapes, and fragmented letterforms are
 encouraged (see Motion Design 038-039)
-• NO PHOTOGRAPHY IS ALLOWED
-• Audio is required.
+* NO PHOTOGRAPHY IS ALLOWED
+* Audio is required.
 
 **Song Intonation Redux**   up to 10 seconds  
 
-You will reiterate a classmates’ song intonation, NOT YOUR OWN, by
+* You will reiterate a classmates’ song intonation, NOT YOUR OWN, by
 exchanging after effects file and assets. You can NOT start completely
 from scratch. You must incorporate at least one element from the original
 piece. You do not have to use them all however. Think of remixes of music.
