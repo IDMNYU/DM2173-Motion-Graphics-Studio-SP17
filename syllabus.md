@@ -1,6 +1,6 @@
 # DM-UY 2173 Motion Graphics Studio
 
-### ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png) **Integrated Digital Media • Technology, Culture & Society Department**
+#### ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png) **Integrated Digital Media • Technology, Culture & Society Department**
 
 ```
 De Angela L. Duff • deangela.duff@nyu.edu • Spring 2017 
@@ -8,7 +8,7 @@ Tuesdays & Thursdays • 2:30PM-4:20PM • 2MTC MAGNET 811 • 3 credit hrs
 Office hours by appointment or directly after class 
 Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
 
-Prerequisite: None
+Prerequisite: DM-UY 1123 Visual Foundation Studio
 ```
 
 #### Gitbook Repository: [http://deangela.gitbooks.io/motion-graphics-studio-spring-2017/welcome](http://deangela.gitbooks.io/motion-graphics-studio-spring-2017/welcome)
