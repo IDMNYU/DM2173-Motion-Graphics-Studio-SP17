@@ -14,7 +14,8 @@
 
 
 * [Over Effects](projects_overeffects.md)
-* [Self-Portrait](projects_self-portrait.md) OR [Song Intonation](projects_songintonation.md) (Choose one or the other. Do not do both.)
+* [Self-Portrait](projects_self_portrait.md) 
+* [Song Intonation](projects_songintonation.md)
 * [Midterm: Retro](projects_retro.md)
 * [Titles](projects_titles.md)
 * [End Tag](projects_endtag.md)

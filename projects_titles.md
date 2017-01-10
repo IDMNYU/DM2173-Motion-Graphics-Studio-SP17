@@ -9,6 +9,7 @@
 **Opening and End Titles** up to 6 seconds each
 * film/video or animation opening titles and 
 * film/video or animation end titles 
+
 for a personal project created by you or someone you know.
 
 **Opening and End Titles Redux** up to 6 seconds each  

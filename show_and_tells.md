@@ -11,6 +11,8 @@
 * Be familiar with a brief bio and be prepared to CRITICALLY discuss your assigned artist, designer, director, filmmaker, or company and their supporting footage in a dynamic presentation in front of the class
 * Select one of the 3 examples of their work to reverse storyboard, by getting screenshots of three key frames. Analyze these key frames using vocabulary from Motion Design by Matt Woolman. **Upload this reverse storyboard as a pdf with the 3 screenshots and written analysis to the MGS slack channel.**
 
+---
+
 **Abstract Animation / Intonation Pioneers**
 * Oskar Fischinger
 * Harry Smith

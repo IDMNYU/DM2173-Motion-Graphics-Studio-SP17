@@ -6,7 +6,7 @@
  ---
 
 **End Tag**	up to 5 seconds	
-* Create an END TAG animating your name, alias or logo. Make sure that your design and animation are clearly expressive of your style and design personality. This is your way to show what your aesthetic preference is – and also to show off your skills as a designer and animator. Explore, experiment, try something different. This is the last assignment, so really push yourself creatively AND technically.
+* Create an END TAG animating your name, alias or logo. Make sure that your design and animation are clearly expressive of your style and design personality. This is your way to show what your aesthetic preference is – and also to show off your skills as a designer and animator. Explore, experiment, try something different. This is your last project before the final, so really push yourself creatively AND technically.
 * FOCUS ON: Creating a “signature” piece, which can brand your work! The goal is to wind up with an intro/outro for the demo reel you’ll edit together as part of your course final.
 * You may use your logo from Visual Foundation Studio if a personal logo was one of your assignments.
 
