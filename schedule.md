@@ -55,11 +55,7 @@
 <li>Motion Graphics Concepts</li>
 <li>After Effects Demo</li>
 </ul></td>
-<td valign="top"><p>Feb 9</p><ul>
-<li><a href="show_and_tells.md">Show &amp; Tells</a></li>
-<li>Motion Graphics Concepts</li>
-<li>After Effects Demo</li>
-</ul></td>
+<td valign="top"><p>Feb 9</p><a href="projects_overeffects.md">Over Effects</a></td>
 </tr>
 
 <tr>
