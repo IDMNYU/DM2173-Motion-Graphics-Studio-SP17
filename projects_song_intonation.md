@@ -1,12 +1,12 @@
 # DM-UY 2173 Motion Graphics Studio
 
-#### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
+Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
 ### PROJECT: SONG INTONATION
 
 ---
 
-Please note that this project is optional. Choose this project or the [Self-Portrait](projects_self_portrait.md) project. Do not do both.
+*Please note that this project is optional. Choose this project or the [Self-Portrait](projects_self_portrait.md) project. Do not do both.*
 
 **Song Intonation** up to 10 seconds
 
