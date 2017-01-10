@@ -11,7 +11,7 @@
 * You may use your logo from Visual Foundation Studio if a personal logo was one of your assignments.
 
 **End Tag Redux** up to 5 seconds	
-Iterate the previous assignment.
+* Iterate the previous assignment.
 
 ---
 
