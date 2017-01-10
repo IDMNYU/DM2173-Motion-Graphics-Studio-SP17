@@ -3,19 +3,24 @@
 * [Introduction](README.md)
 * [Syllabus](syllabus.md)
 * [Schedule](schedule.md)
-* [Process Documentation](process_documentation.md)
-* [Assignment: Show and Tells & Reverse Storyboards](show_and_tells.md)
-* [Assignment: After Effects Diary](after_effects_diary.md)
-* [Assignment: Letter or Video to Next Cohort](letter.md)
-* [Midterm and Final Self Assessments](self_assessments.md)
-* [Titles](projects_titles.md)
-* [Project: Over Effects](projects_overeffects.md)
-* [Project: Self-Portrait](projects_self_portrait.md)
-* [Project: Song Intonation](projects_song_intonation.md)
-* [Midterm Project: Retro](projects_retro.md)
-* [Project: End Tag](projects_endtag.md)
-* [Final Project: Demo Reel](projects_demoreel.md)
+
+Assignments:
 * [End of Semester Deliverables](end_of_semester_deliverables.md)
+* [Show & Tell / Reverse Storyboard](show_and_tells.md)
+* [Process Documentation](process_documentation.md)
+* [After Effects Diary](after_effects_diary.md)
+* [Midterm and Final Self Assessments](self_assessments.md)
+* [Letter or Video to Next Cohort](letter.md)
+
+Projects:
+* [Over Effects](projects_overeffects.md)
+* [Self-Portrait](projects_self-portrait.md) OR [Song Intonation](projects_songintonation.md) (Choose one or the other. Do not do both.)
+* [Midterm: Retro](projects_retro.md)
+* [Titles](projects_titles.md)
+* [End Tag](projects_endtag.md)
+* [Final: Demo Reel](projects_demoreel.md)
+
+Resources:
 * [Recommended Resources](recommended_resources.md)
 * [Success Checklist](success.md)
 
