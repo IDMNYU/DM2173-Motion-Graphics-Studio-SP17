@@ -13,7 +13,7 @@
 * FOCUS ON: Design aesthetic, your choices of fonts and colors. 
 
 **Retro Redux**	5 seconds	
-Iterate the previous assignment.
+* Iterate the previous assignment.
 
 ---
 
