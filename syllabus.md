@@ -16,7 +16,6 @@ Prerequisite: None
 #### Course Management Site: [http://bxmc.slack.com](http://bxmc.slack.com)
 
 ---
----
 
 ## Welcome to Motion Graphics Studio!
 
