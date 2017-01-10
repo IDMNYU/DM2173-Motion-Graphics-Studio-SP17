@@ -13,9 +13,9 @@
 for a personal project created by you or someone you know.
 
 **Opening and End Titles Redux** up to 6 seconds each  
-Iterate the previous assignment.
----
+* Iterate the previous assignment.
 
+---
 Make sure your video files are named as follows:
 * FirstnameLastname_openingtitle_date
 * FirstnameLastname_openingtitle2_date
