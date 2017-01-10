@@ -59,7 +59,7 @@
 
 <tr>
 <td>4</td>
-<td><p>Feb 14</p><a href="projects_overeffects.md">Over Effects</a></td>
+<td><p>Feb 14</p><a href="projects_overeffects.md">Over Effects</a> Redux</td>
 <td valign="top"><p>Feb 16</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a>: <a href="process_documentation.md">Research and Design</a> <ul><li>(Choose one or the other. Not both.)</li></ul></td>
 </tr>
 
@@ -71,7 +71,7 @@
 
 <tr>
 <td>6</td>
-<td><p>Feb 28</p><a href="projects_self-portrait.md">Self-Portrait</a>) OR <a href="projects_songintonation.md">Song Intonation</a> Redux (Entire Class)</td>
+<td><p>Feb 28</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> Redux</td>
 <td><p>Mar 2</p><a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 
@@ -89,8 +89,8 @@
 
 <tr>
 <td>9</td>
-<td><p>Mar 21</p><a href="projects_retro.md">Retro</a></td>
-<td><p>Mar 23</p><a href="projects_retro.md">Retro</a></td>
+<td><p>Mar 21</p><a href="projects_retro.md">Retro</a> Redux</td>
+<td><p>Mar 23</p><a href="projects_retro.md">Retro</a> Redux</td>
 </tr>
 
 
