@@ -97,6 +97,10 @@ Your final grade will be based on a synthesis of quantitative & qualitative rubr
 Your grade for the course will be based on the following:
 
 Projects:
+These projects are meant to develop and refine your skills as a designer and animator. You are responsible for learning any software skills and techniques necessary to bring your ideas to life. 
+
+You will be required to [write a “brief” for each assignment](process_documentation.md), (EXCEPT for the over effects projects), PRIOR to beginning the actual work, which will lay out your concept and creative direction!
+
 * 10% [Over Effects](projects_overeffects.md)
 * 10% [Self-Portrait](projects_self-portrait.md) OR [Song Intonation](projects_songintonation.md) (Choose one or the other. Do not do both.)
 * 10% [Titles](projects_titles.md)
@@ -207,26 +211,6 @@ Any printed assignments should always contain the following and uploaded to the 
 * Title of project or assignment
 
 Written assignments will be assigned frequently. These will typically involve writing about your work, learning how to use motion graphics terminology correctly and efficiently to describe your ideas. Be prepared to share your writing in class, as well as hand in your work via slack as a PDF document, PRIOR to the start of the class at which it is due. 
-
-### ASSIGNMENTS
-* [End of Semester Deliverables](end_of_semester_deliverables.md)
-* [Show & Tell / Reverse Storyboard](show_and_tells.md)
-* [Process Documentation](process_documentation.md)
-* [After Effects Diary](after_effects_diary.md)
-* [Midterm and Final Self Assessments](self_assessments.md)
-* [Letter or Video to Next Cohort](letter.md)
-
-### PROJECTS
-These projects are meant to develop and refine your skills as a designer and animator. You are responsible for learning any software skills and techniques necessary to bring your ideas to life. 
-
-You will be required to [write a “brief” for each assignment](process_documentation.md), (EXCEPT for the over effects projects), PRIOR to beginning the actual work, which will lay out your concept and creative direction!
-
-* [Over Effects](projects_overeffects.md)
-* [Self-Portrait](projects_self-portrait.md) OR [Song Intonation](projects_songintonation.md) (Choose one or the other. Do not do both.)
-* [Midterm: Retro](projects_retro.md)
-* [Titles](projects_titles.md)
-* [End Tag](projects_endtag.md)
-* [Final: Demo Reel](projects_demoreel.md)
 
 ### [SCHEDULE](schedule.md)
 See Appendix
