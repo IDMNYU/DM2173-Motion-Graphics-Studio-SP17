@@ -72,12 +72,12 @@
 <tr>
 <td>6</td>
 <td><p>Feb 28</p><a href="projects_self-portrait.md">Self-Portrait</a>) OR <a href="projects_songintonation.md">Song Intonation</a> Redux (Entire Class)</td>
-<td><p>Mar 2</p>MIDTERM: <a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></td>
+<td><p>Mar 2</p><a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 
 <td>7</td>
-<td><p>Mar 7</p>MIDTERM: <a href="projects_retro.md">Retro</a></td>
-<td><p>Mar 9</p>MIDTERM: <a href="projects_retro.md">Retro</a> Redux</td>
+<td><p>Mar 7</p><a href="projects_retro.md">Retro</a></td>
+<td><p>Mar 9</p><a href="projects_retro.md">Retro</a> Redux</td>
 </tr>
 
 <tr>
@@ -140,11 +140,11 @@
 
 <tr>
 <td></td>
-<td><p>May 12 (Fri), May 15 (Mon), May 16 (Tue)</p>Final one on one appointments
+<td><strong><p>May 12 (Fri), May 15 (Mon), or May 16 (Tue)</p>Final one on one appointments
 <ul>
-<li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</li>
-<li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</li>
-</ul></td>
+<li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
+<li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a></li>
+</ul></strong></td>
 <td></td>
 </tr>
 
