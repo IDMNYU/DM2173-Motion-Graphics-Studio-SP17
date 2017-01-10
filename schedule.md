@@ -25,7 +25,8 @@
 <ul>
 <li>Course and Student Introductions</li>
 <li>Overview of Course</li>
-<li>Assign Show &amp; Tells</li>
+<li><a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">Finished Not Perfect</a> by Jake Parker
+<li>Assign Remaining Show &amp; Tells</li>
 </ul></td>
 </tr>
 
@@ -53,8 +54,10 @@
 
 <tr>
 <td>5</td>
-<td><p>Feb 21</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> (Choose one or the other.) (Entire Class)</td>
-<td><p>Feb 23</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> (Choose one or the other.) (Rest of Class)</td>
+<td><p>Feb 21</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> (Entire Class)<ul>
+<li>(Choose one or the other. Not both.)</li></ul> </td>
+<td><p>Feb 23</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> (Rest of Class)<ul>
+<li>(Choose one or the other. Not both.)</li></ul> </td>
 </tr>
 
 <tr>
@@ -71,8 +74,8 @@
 <tr>
 <tr>
 <td>8</td>
-<td valign="top"><strong><p>Mar 14</p><i>No Class</i> NYU Spring Break</strong></td>
-<td valign="top"><strong><p>Mar 16</p><i>No Class</i> NYU Spring Break</strong></td>
+<td valign="top"><strong><p>Mar 14</p><i>NO CLASS</i> NYU Spring Break</strong></td>
+<td valign="top"><strong><p>Mar 16</p><i>NO CLASS</i> NYU Spring Break</strong></td>
 </tr>
 
 <tr>
@@ -81,19 +84,22 @@
 <td><p>Mar 23</p>MIDTERM: <a href="projects_retro.md">Retro</a> (Rest of Class)</td>
 </tr>
 
-<tr>
-<td></td><td><strong><p>Mar 31 (Fri)</p><i>Last Day to Withdraw</i></strong></td><td></td>
-</tr>
+
 
 <tr>
 <td>10</td>
 <td><strong><p>Mar 28</p>MIDTERM: <a href="projects_retro.md">Retro</a> Redux (Entire Class)</strong></td>
 <td><strong><p>Mar 30</p>MIDTERM: <a href="projects_retro.md">Retro</a> Redux (Rest of Class)</strong></td>
 </tr>
+
+<tr>
+<td></td><td><strong><p>Mar 31 (Fri)</p><i>Last Day to Withdraw</i></strong></td><td></td>
+</tr>
+
 <tr>
 <td>11</td>
-<td><p>Apr 4</p><i><a href="projects_titles.md">Titles</a> (Entire Class)</td>
-<td><p>Apr 6</p><i><a href="projects_titles.md">Titles</a> (Rest of Class)</td>
+<td><p>Apr 4</p><a href="projects_titles.md">Titles</a> (Entire Class)</td>
+<td><p>Apr 6</p><a href="projects_titles.md">Titles</a> (Rest of Class)</td>
 </tr>
 <tr>
 <td>12</td>

@@ -1,5 +1,4 @@
 # DM-UY 2173 Motion Graphics Studio
-# THIS IS A DRAFT. NOT ACCURATE.
 
 ### ![NYU](http://engineering.nyu.edu/files/tandon_long_black.png) **Integrated Digital Media • Technology, Culture & Society Department**
 
@@ -33,7 +32,6 @@ The following Integrated Digital Media program goals are introduced and reinforc
     * Students will understand and utilize tools and technology, while adapting to constantly changing technological paradigms by learning how to learn.
     * Students will be able to integrate/interface different technologies within a technological ecosystem.   
 * develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historical, aesthetic, economic, and technological contexts.
-* develop **collaboration skills** to actively and effectively work in a team or group.
 
 ### COURSE GOALS
 
@@ -77,8 +75,7 @@ Laptop computers and other mobile devices are invaluable tools for artists, desi
 * Devote **at least 8 to 16 hours** per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
 * Consult slack at least once a week for up to date info
 * Complete all assignments by due dates
-* Acquire and read all assigned readings before they are due
-* Submit a portfolio of work spanning the duration of class.
+* Create a vimeo account if you do not already have one.
 * Action – do your absolute best
 * Strive for continuous improvement
 * Have desire amounting to enthusiasm (to learn, to explore)
@@ -93,29 +90,27 @@ Laptop computers and other mobile devices are invaluable tools for artists, desi
 
 **Grading**
 
-All work assigned will be complete and delivered on the due date, PRIOR TO CLASS TIME, otherwise you will receive a failing grade for the homework assignment. However, the assignment will still need to be completed for the end of the semester portfolio. Otherwise, you will be penalized twice for a missed assignment.
-
-Evaluations will be conducted in the form of individual and class critiques. Class critiques will occur on a weekly basis.
-
-Makeup assignments are only available when discussed with and approved by the instructor in advance of the original due date.
-
-If you turn in your midterm or final before the due date, knowing that you will be absent on the midterm or final, 40 points will be subtracted from your final project grade. If you attend the midterm or final without a finished project, you will receive up to 40 points for your presence and participation. A late midterm or final (after 2:40pm on the due date) will not be accepted under any circumstances.
-
 Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
 ### Quantitative Overview
 
 Your grade for the course will be based on the following:
 
-* 40% Projects (10 projects x 4% each)
-* 10% Midterm (Retro Project)
-* 10% Final (Demo Reel)
-* 10% End of semester deliverables
-* 10% Process Documentation
-* 10% After Effects Diary
-* 05% Show & Tell / Reverse Storyboard
-* 05% Midterm and Final Self-Assessment
-* Letter to the Next Cohort
+Projects:
+* 10% [Over Effects](projects_overeffects.md)
+* 10% [Self-Portrait](projects_self-portrait.md) OR [Song Intonation](projects_songintonation.md) (Choose one or the other. Do not do both.)
+* 10% [Titles](projects_titles.md)
+* 10% [End Tag](projects_endtag.md)
+* 10% [Midterm: Retro Project](projects_retro.md)
+* 10% [Final: Demo Reel](projects_demoreel.md)
+
+Assignments:
+* 10% [End of Semester Deliverables](end_of_semester_deliverables.md)
+* 10% [Process Documentation](process_documentation.md)
+* 05% [After Effects Diary](after_effects_diary.md)
+* 05% [Show & Tell / Reverse Storyboard](show_and_tells.md)
+* 05% [Midterm and Final Self Assessments](self_assessments.md)
+* 05% [Letter or Video to Next Cohort](letter.md)
 
 The midterm and final project grade will be based on the following:
 
@@ -131,7 +126,7 @@ The midterm and final project grade will be based on the following:
 
 Each student will be judged on the quality, experimentation, and improvement that their work shows.
 
-* **Excellent** Performance and attendance of the student has been of the highest level. Work clearly differentiates itself from other work. It has memorable impact and repeat playability. Work surpasses all of the criteria set forth in the assignment descriptions, and shows what is done by a highly self-motivated student who pursues concepts and techniques above and beyond what is discussed in class. The content is exceptional with outstanding critical thinking,&original, thoughtful and/or imaginative ideas. Shows deft utilization of the fundamental, motion graphics principles of time, space, image, type, audio, and impeccable craft. Spelling, punctuation or grammar errors are nonexistent. It demonstrates a strong utilization of the ability to work independently, research / investigate, experiment / explore, and iterate.
+* **Excellent** Performance and attendance of the student has been of the highest level. Work clearly differentiates itself from other work. It has memorable impact and repeat playability. Work surpasses all of the criteria set forth in the assignment descriptions, and shows what is done by a highly self-motivated student who pursues concepts and techniques above and beyond what is discussed in class. The content is exceptional with outstanding critical thinking, original, thoughtful and/or imaginative ideas. Shows deft utilization of the fundamental, motion graphics principles of time, space, image, type, audio, and impeccable craft. Spelling, punctuation or grammar errors are nonexistent. It demonstrates a strong utilization of the ability to work independently, research / investigate, experiment / explore, and iterate.
 
 * **Very Good / Good** Performance and attendance of the student has been good, though not of the highest level. Work is better than average, showing sensitivity to motion graphics and general design principles and extra effort. Work has very good/good levels of impact, conceptual development, and visual interest. Employs an understanding & utilization of process & iteration, and above average craft & attention to detail.
 
@@ -147,16 +142,18 @@ Each student will be judged on the quality, experimentation, and improvement tha
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
 * Contact the professor IN ADVANCE if you will not be in class (in person or by slack is preferred).
-* ATTENDANCE IS MANDATORY DURING THE MIDTERM AND FINAL CRITIQUES.
+* **ATTENDANCE IS MANDATORY DURING THE MIDTERM AND FINAL CRITIQUES.** If you turn in your midterm or final before the due date, knowing that you will be absent on the midterm or final, 40 points will be subtracted from your final project grade. If you attend the midterm or final without a finished project, you will receive up to 40 points for your presence and participation. A late midterm or final (after 2:40pm on the due date) will not be accepted under any circumstances.
 
 ### ACADEMIC & CREATIVE HONESTY
 
 All  work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.
 
 ### RIGHTS OF USE
+
 You MUST have complete rights of use to any and all materials which appear in your final projects, with the exception of the audio for the film conversation project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented and credited. Please remember that you can collaborate with music students for audio tracks, create your own audio or contact the authors of your audio selections for rights. I strongly encourage you to use original images for all of your projects, however, should you absolutely require to use stock images/video etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated.
 
 ### ACADEMIC ACCOMODATIONS
+
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
 ### REQUIRED SUPPLIES
@@ -170,36 +167,6 @@ If you are student with a disability who is requesting accommodations, please co
 * Adobe Photoshop
 * Adobe Illustrator
 * Adobe Acrobat Pro
-
-
-### ADVICE FOR SUCCESS
-* HAVE A GOAL AND KEEP IT REALISTIC<br> 
-A well thought out and well executed 30 seconds is infinitely better than a mediocre 5 minutes. Motion graphics is about using time, space and design to maximize your ability to communicate the objective. Longer does not necessarily equal better. Complex does not necessarily equal more effective. 
-* STRIVE TO DO YOUR ABSOLUTE BEST<br>
-BUT remember that perfection is subjective, while attention to detail (ie. spelling!), ability to convey your objective to your general audience, meeting deadlines and completing the project to requirements ARE NOT subjective. 
-* LEARN HOW TO LEARN<br>
-No one will teach you better than you can teach yourself. Technology moves at a very fast pace and what you know today may not, and chances are will not, be enough tomorrow. Learn to not only “how to learn” but also how to seek out what is out there that may be worth learning - ie: new software, plugins, techniques, inspirations. 
-* USE YOUR RESOURCES 
-The Internet is the quickest access to information you have, but don’t forget that books and magazines offer a wealth of info and inspiration. 
-* GET OUT OF YOUR OWN HEAD 
-What is important to you may not necessarily resonate with the rest of the world. The way you communicate may not necessarily be understood by a wide audience. Design is about
-communicating ideas - keep your audience in mind! If your concept is of universal appeal,
-remember to communicate it clearly. If your concept is not of universal appeal, remember that you will need to convince your audience WHY they should give your work their time. “Doing it for yourself” is great - but it is NOT what this course is about! 
-* RESEARCH AND DEVELOP YOUR IDEA<br> 
-Do that before diving in head first into the project! Consider all of the following questions before you settle on a direction:
-* What is your objective? Who is your intended audience?
-* Are there cultural/social/historical/creative context you need to be aware of?
-* Why should anyone care about what you have to say?
-* How can you convince them of this visually?
-* Is your aesthetic direction conducive to communicating your idea? Or are your design choices taking away from the concept? How will your initial concepts of use of time/space, composition, color, use of shapes/images/type/audio will contribute to the overall project? Why are you making the visual choices you are making? 
-* CONSIDER ALL ASPECTS OF THE DESIGN 
-Color, composition, typography, pacing, rhythm, contrast, tension etc. Try to keep in mind the total vision and how each component affects it, at all times! 
-* GIVE CONSTRUCTIVE FEEDBACK DURING CRITIQUES
-Your feedback is vital to the growth of your classmates as well as your OWN creative
-development. 
-* BE OPEN TO CRITIQUES OF YOUR WORK AND CONSTRUCTIVE CRITICISM 
-Check your ego at the door! You will never get better if you are unable to deal with your own mistakes, shortcomings and weak spots. 
-* ALWAYS REMEMBER: THERE IS ALWAYS MORE THAN ONE WAY TO DO SOMETHING.
 
 ### PROJECT GUIDELINES
 * For all of your video work, always export a hi-res and lo-res version. 
@@ -246,12 +213,12 @@ Written assignments will be assigned frequently. These will typically involve wr
 * [Process Documentation](process_documentation.md)
 * [After Effects Diary](after_effects_diary.md)
 * [Midterm and Final Self Assessments](self_assessments.md)
-* [Letter to Next Cohort](letter.md)
+* [Letter or Video to Next Cohort](letter.md)
 
 ### PROJECTS
 These projects are meant to develop and refine your skills as a designer and animator. You are responsible for learning any software skills and techniques necessary to bring your ideas to life. 
 
-You will be required to write a “brief” for each assignment, PRIOR to beginning the actual work, which will lay out your concept and creative direction!
+You will be required to [write a “brief” for each assignment](process_documentation.md), (EXCEPT for the over effects projects), PRIOR to beginning the actual work, which will lay out your concept and creative direction!
 * [Over Effects](projects_overeffects.md)
 * [Self-Portrait](projects_self-portrait.md) OR [Song Intonation](projects_songintonation.md) (Choose one or the other. Do not do both.)
 * [Midterm: Retro](projects_retro.md)

@@ -4,8 +4,8 @@
 
 ### ASSIGNMENTS: After Effects Diary
 
-Post entries in your after effects diary. Your diary should chronicle: 
-* what online tutorials you have viewed and completed and 
+Post entries of your after effects diary to the MGS slack channel. Your diary should chronicle: 
+* what online tutorials you have viewed and completed and/or 
 * what chapters within after effects books you have actually read and/or done the exercises from. 
 
 Be as specific as possible. Post URLs, & titles and authors of books.
