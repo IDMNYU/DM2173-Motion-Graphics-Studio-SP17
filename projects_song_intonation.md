@@ -6,7 +6,7 @@
 
 ---
 
-Please note that this project is optional. Choose this project or the [Self-Portrait](projects_self-portrait.md) project. Do not do both.
+Please note that this project is optional. Choose this project or the [Self-Portrait](projects_self_portrait.md) project. Do not do both.
 
 **Song Intonation** up to 10 seconds
 
