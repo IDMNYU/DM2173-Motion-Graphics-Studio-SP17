@@ -14,7 +14,8 @@
 **Slack Invite (http://bxmc.slack.com)**
 * You will be receiving an invitation from Slack shortly. Please accept it. I have to manually enter you to the mgs slack channel. Please be patient.
 * If you've been in one of my classes before, you'll automatically be added with the username and password you used before with my class.
-* I suggest changing your [slack account notification settings](https://bxmc.slack.com/account/notifications) to receive slack notifications via your nyu email so you don't miss any posts. Customize Your Notification Settings -> Additional Settings -> Email Settings
+* I suggest changing your [slack account notification settings](https://bxmc.slack.com/account/notifications) to receive slack notifications via your nyu email so you don't miss any posts. 
+    * Customize Your Notification Settings -> Additional Settings -> Email Settings
 
 **Adobe After Effects**
 * If you don't already have it, purchase the [student adobe creative cloud option](https://www.adobe.com/creativecloud/buy/students.html?promoid=N7FDRVG6&mv=other) to get Adobe After Effects.
