@@ -9,7 +9,11 @@
 * If you are prone to saying that "this course is too much work," this course may not be for you. This course will require a LOT of time outside of class AT LEAST 8 to 16 hours every week. You will be able to build some amazing portfolio pieces in this course, but only if you are committed to doing so. This is not a class where you can do the homework the night before. It's actually not physically possible. If this is your mode of operating, I wouldn't recommend this course for you. There are 18 people on the waitlist so if you are not totally committed to this course I'd recommend that you drop the course and find another by consulting with Eric. **I only want students in the class who really want to create amazing work and will push themselves to do so.**
 
 **First Day of Class**
-* **Thursday, Jan 26** (instead of Tues Jan 24. I will be attending a conference out of town.)
+Thanks to Calvin for pointing out the discrepancy of the class days. To make a long story short, the class will be meeting as posted on Albert on Mondays and Wednesdays. I've changed the syllabus schedule on gitbook to reflect Monday and Wednesday dates.
+
+Because I thought the course was meeting on Tuesdays and Thursdays, a couple of things... 
+* **During the first week of class, we'll ONLY meet on Thursday at either 10:30-12:20pm OR 6:30pm-8:20pm in MAGNET 813** to make up one of the dates while I'm at the conference. I'm going to send out a [doodle poll](http://doodle.com/poll/p539a2aaez9p6s6r) to see which timeslot works for most students. 
+* With the 2nd week of classes, we'll resume the normal M/W schedule but I will be coming from the airport on Monday. If all goes well I'll be on time. If the flight is delayed I may be late to class but do not leave I'll be coming. I'll post updates to Slack if anything comes up.
 
 **Slack Invite (http://bxmc.slack.com)**
 * You will be receiving an invitation from Slack shortly. Please accept it. I have to manually enter you to the mgs slack channel. Please be patient.
