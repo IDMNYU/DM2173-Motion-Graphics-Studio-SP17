@@ -5,6 +5,7 @@
 * [Schedule](schedule.md)
 * [Recommended Resources](recommended_resources.md)
 * [Success Checklist](success.md)
+* [MGS Pre-Work](mgs_pre_work.md)
 
 ### Assignments
 

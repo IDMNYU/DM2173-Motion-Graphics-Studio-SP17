@@ -3,7 +3,8 @@
 ##### Spring 2017 • De Angela L. Duff • Tuesdays &amp; Thursdays • De Angela L. Duff • 2:30PM-4:20PM • 2MTC MAGNET 811
 
 ### ASSIGNMENTS: After Effects Diary
-
+ ---
+ 
 **Post entries of your after effects diary to the MGS slack channel.** 
 
 Your diary should chronicle: 
