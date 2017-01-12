@@ -160,7 +160,7 @@ You MUST have complete rights of use to any and all materials which appear in yo
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
 ### REQUIRED BOOK
-* **Moving Type: Designing for Time and Space** by Matt Woolman & Jeff Bellantoni or **Motion Design** by Matt Woolman. Both are out of print, but purchase whichever is cheaper on amazon.com or half.com. Do not buy both.
+* **Moving Type: Designing for Time and Space** by Matt Woolman & Jeff Bellantoni or **Motion Design** by Matt Woolman. Both are out of print, but purchase whichever is cheaper on amazon.com or half.com. Do not buy both. There are many on Amazon that will be anywhere from $4 to $21 including shipping.
 * [Amazon: Moving Type](https://www.amazon.com/Moving-Type-Designing-Time-Space/dp/2880463696/ref=sr_1_1?ie=UTF8&qid=1484081727&sr=8-1&keywords=moving+type) [Half.com: Moving Type](http://product.half.ebay.com/Type-in-Motion-Innovations-in-Digital-Graphics-by-Matt-Woolman-and-Jeff-Bellantoni-1999-Hardcover/1127478&tg=info)
 * For whatever reason, Motion Design is alwasys more expensive than Moving Type but they are essentially the same book. So again whichever you can find cheaper.
 
