@@ -17,7 +17,7 @@
 * I suggest changing your [slack account notification settings](https://bxmc.slack.com/account/notifications) to receive slack notifications via your nyu email so you don't miss any posts. Customize Your Notification Settings -> Additional Settings -> Email Settings
 
 **Adobe After Effects**
-* If you don't already have the following software, purchase the student adobe creative cloud option to get Adobe After Effects.
+* If you don't already have it, purchase the [student adobe creative cloud option](https://www.adobe.com/creativecloud/buy/students.html?promoid=N7FDRVG6&mv=other) to get Adobe After Effects.
 
 **Lynda http://nyu.edu/lynda (sign in with your nyu account to get these tutorials for free)**
 * Begin the Lynda after effect tutorials IMMEDIATELY before the semester begins so that you can absorb the material and not be distracted by your other classes. After Effects has a steep learning curve for some so I wouldn't wait to begin these tutorials.
