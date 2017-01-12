@@ -161,7 +161,8 @@ If you are student with a disability who is requesting accommodations, please co
 
 ### REQUIRED BOOK
 * **Moving Type: Designing for Time and Space** by Matt Woolman & Jeff Bellantoni or **Motion Design** by Matt Woolman. Both are out of print, but purchase whichever is cheaper on amazon.com or half.com. Do not buy both. There are many on Amazon that will be anywhere from $4 to $21 including shipping.
-* [Amazon: Moving Type](https://www.amazon.com/Moving-Type-Designing-Time-Space/dp/2880463696/ref=sr_1_1?ie=UTF8&qid=1484081727&sr=8-1&keywords=moving+type) [Half.com: Moving Type](http://product.half.ebay.com/Type-in-Motion-Innovations-in-Digital-Graphics-by-Matt-Woolman-and-Jeff-Bellantoni-1999-Hardcover/1127478&tg=info)
+    * [Amazon: Moving Type](https://www.amazon.com/Moving-Type-Designing-Time-Space/dp/2880463696/ref=sr_1_1?ie=UTF8&qid=1484081727&sr=8-1&keywords=moving+type) 
+    * [Half.com: Moving Type](http://product.half.ebay.com/Type-in-Motion-Innovations-in-Digital-Graphics-by-Matt-Woolman-and-Jeff-Bellantoni-1999-Hardcover/1127478&tg=info)
 * For whatever reason, Motion Design is alwasys more expensive than Moving Type but they are essentially the same book. So again whichever you can find cheaper.
 
 ### REQUIRED SUPPLIES
