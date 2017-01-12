@@ -109,6 +109,14 @@
 </tr>
 
 <tr>
+<td></td><td><strong><p>Mar 28, 29, 30</p>Midterm one on one appointments</strong>
+<ul>
+<li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
+<li><a href="end_of_semester_deliverables.md">Midterm Self Assessment Due</a></li>
+</ul></strong></td><td></td>
+</tr>
+
+<tr>
 <td></td><td><strong><p>Mar 31 (Fri)</p><i>Last Day to Withdraw</i></strong></td><td></td>
 </tr>
 
