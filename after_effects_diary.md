@@ -14,7 +14,7 @@ Your diary should chronicle:
 * what chapters within after effects books you have actually read and/or done the exercises from.
 
 ---
-Do one or both of these tutorials first on [Lynda, nyu.edu/lynda](http://nyu.edu/lynda)(sign in with your nyu account to get these tutorials for free)
+Do one or both of these tutorials first on [Lynda, nyu.edu/lynda](http://nyu.edu/lynda) (sign in with your nyu account to get these tutorials for free)
 * After Effects CC 2017 Essential Training: The Basics by Mark Christiansen OR 
 * After Effects Apprentice 01: CC Pre-Roll by Chris Meyer OR 
 * Both tutorials to get two different voices and approaches
