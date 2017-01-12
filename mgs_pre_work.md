@@ -45,6 +45,6 @@ For whatever reason, Motion Design is always more expensive than Moving Type but
 * After quickly researching [the choices](https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html), please post on the class main slack channel, mgs_sp17, your show and tell choice. First come first serve.
 
 **Syllabus**
-* You can find the syllabus online at gitbook and pinned on slack.
+* You can find the [syllabus online at gitbook](https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/syllabus.html) and pinned on slack.
 * Please read carefully before class.
 * Let me know if you find any broken links or typos.
