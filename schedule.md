@@ -60,18 +60,18 @@
 <tr>
 <td>4</td>
 <td><p>Feb 14</p><a href="projects_overeffects.md">Over Effects</a> Redux</td>
-<td valign="top"><p>Feb 16</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a>: <a href="process_documentation.md">Research and Design</a> <ul><li>(Choose one or the other. Not both.)</li></ul></td>
+<td valign="top"><p>Feb 16</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a>: <a href="process_documentation.md">Research and Design</a> <ul><li>(Choose one or the other. Not both.)</li></ul></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><p>Feb 21</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> Redux</td>
-<td><p>Feb 23</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> Redux</td>
+<td><p>Feb 21</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
+<td><p>Feb 23</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><p>Feb 28</p><a href="projects_self-portrait.md">Self-Portrait</a> OR <a href="projects_songintonation.md">Song Intonation</a> Redux</td>
+<td><p>Feb 28</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
 <td><p>Mar 2</p><a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 
