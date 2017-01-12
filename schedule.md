@@ -19,7 +19,8 @@
 <tr>
 <td>1</td>
 <td><strong><p>Jan 23</p><i>NO CLASS Professor at conference</i></strong></td>
-<td><p>Jan 25</p>
+<td><strong><p>Jan 26</p><i>NO CLASS Professor at conference</i></strong></p>
+<p><strong>MAKEUP CLASS Thu Jan 27 6:30-8:20pm</strong></p>
 <ul>
 <li>Course and Student Introductions</li>
 <li>Overview of Course</li>
