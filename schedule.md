@@ -23,7 +23,10 @@
 <li>Do Tutorials and Document in Your <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html">After Effects Diary</a></li>
 <li>Do Research and Prepare Presentation for Your <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show and Tell</a></li>
 </ul></td>
-<td><strong><p>Jan 25</p><i>NO CLASS Professor at conference</i></strong></p></td>
+<td><strong><p>Jan 25</p><i>NO CLASS Professor at conference</i></strong><ul>
+<li>Do Tutorials and Document in Your <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html">After Effects Diary</a></li>
+<li>Do Research and Prepare Presentation for Your <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show and Tell</a></li>
+</ul></td>
 </tr>
 <tr>
 <td>2</td>
