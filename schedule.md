@@ -12,14 +12,14 @@
 <table>
 <tr>
 <th width="4%">wk</th>
-<th width="48%">Tuesdays (Due on Date Listed)</th>
-<th width="48%">Thursdays (Due on Date Listed)</th>
+<th width="48%">Mondays (Due on Date Listed)</th>
+<th width="48%">Wednesdays (Due on Date Listed)</th>
 </tr>
 
 <tr>
 <td>1</td>
-<td><strong><p>Jan 24</p><i>NO CLASS Professor at conference</i></strong></td>
-<td><p>Jan 26</p>
+<td><strong><p>Jan 23</p><i>NO CLASS Professor at conference</i></strong></td>
+<td><p>Jan 25</p>
 <ul>
 <li>Course and Student Introductions</li>
 <li>Overview of Course</li>
@@ -30,13 +30,13 @@
 
 <tr>
 <td>2</td>
-<td><p>Jan 31</p>
+<td><p>Jan 30</p>
 <ul>
 <li><a href="show_and_tells.md">Show &amp; Tells</a></li>
 <li>Motion Graphics Concepts</li>
 <li>After Effects Demo</li>
 </ul></td>
-<td valign="top"><p>Feb 2</p><ul>
+<td valign="top"><p>Feb 1</p><ul>
 <li><a href="show_and_tells.md">Show &amp; Tells</a></li>
 <li>Motion Graphics Concepts</li>
 <li>After Effects Demo</li>
@@ -44,13 +44,13 @@
 </tr>
 
 <tr>
-<td><td><strong><p>Feb 5 (Sun)</p><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td><td></td>
+<td><td><strong><p>Feb 4 (Sun)</p><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td><td></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td valign="top"><p>Feb 7</p><a href="projects_overeffects.md">Over Effects</a></td>
-<td valign="top"><p>Feb 9</p><ul>
+<td valign="top"><p>Feb 6</p><a href="projects_overeffects.md">Over Effects</a></td>
+<td valign="top"><p>Feb 8</p><ul>
 <li><a href="show_and_tells.md">Show &amp; Tells</a></li>
 <li>Motion Graphics Concepts</li>
 <li>After Effects Demo</li>
@@ -59,46 +59,46 @@
 
 <tr>
 <td>4</td>
-<td><p>Feb 14</p><a href="projects_overeffects.md">Over Effects</a> Redux</td>
-<td valign="top"><p>Feb 16</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a>: <a href="process_documentation.md">Research and Design</a> <ul><li>(Choose one or the other. Not both.)</li></ul></td>
+<td><p>Feb 13</p><a href="projects_overeffects.md">Over Effects</a> Redux</td>
+<td valign="top"><p>Feb 15</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a>: <a href="process_documentation.md">Research and Design</a> <ul><li>(Choose one or the other. Not both.)</li></ul></td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><p>Feb 21</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
-<td><p>Feb 23</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
+<td><p>Feb 20</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
+<td><p>Feb 22</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
 </tr>
 
 <tr>
 <td>6</td>
-<td><p>Feb 28</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
-<td><p>Mar 2</p><a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></td>
+<td><p>Feb 27</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
+<td><p>Mar 1</p><a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 
 <td>7</td>
-<td><p>Mar 7</p><a href="projects_retro.md">Retro</a></td>
-<td><p>Mar 9</p><a href="projects_retro.md">Retro</a> Redux</td>
+<td><p>Mar 6</p><a href="projects_retro.md">Retro</a></td>
+<td><p>Mar 8</p><a href="projects_retro.md">Retro</a> Redux</td>
 </tr>
 
 <tr>
 <tr>
 <td>8</td>
-<td valign="top"><strong><p>Mar 14</p><i>NO CLASS</i> NYU Spring Break</strong></td>
-<td valign="top"><strong><p>Mar 16</p><i>NO CLASS</i> NYU Spring Break</strong></td>
+<td valign="top"><strong><p>Mar 13</p><i>NO CLASS</i> NYU Spring Break</strong></td>
+<td valign="top"><strong><p>Mar 15</p><i>NO CLASS</i> NYU Spring Break</strong></td>
 </tr>
 
 <tr>
 <td>9</td>
-<td><p>Mar 21</p><a href="projects_retro.md">Retro</a> Redux</td>
-<td><p>Mar 23</p><a href="projects_retro.md">Retro</a> Redux</td>
+<td><p>Mar 20</p><a href="projects_retro.md">Retro</a> Redux</td>
+<td><p>Mar 22</p><a href="projects_retro.md">Retro</a> Redux</td>
 </tr>
 
 
 
 <tr>
 <td>10</td>
-<td><strong><p>Mar 28</p>MIDTERM: <a href="projects_retro.md">Retro</a></strong></td>
-<td><p>Mar 30</p><a href="projects_titles.md">Titles</a>: <a href="process_documentation.md">Research and Design</a></td>
+<td><strong><p>Mar 27</p>MIDTERM: <a href="projects_retro.md">Retro</a></strong></td>
+<td><p>Mar 29</p><a href="projects_titles.md">Titles</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 
 <tr>
@@ -107,40 +107,40 @@
 
 <tr>
 <td>11</td>
-<td><p>Apr 4</p><a href="projects_titles.md">Titles</a></td>
-<td><p>Apr 6</p><a href="projects_titles.md">Titles</a> Redux</td>
+<td><p>Apr 3</p><a href="projects_titles.md">Titles</a></td>
+<td><p>Apr 5</p><a href="projects_titles.md">Titles</a> Redux</td>
 </tr>
 <tr>
 <td>12</td>
-<td><p>Apr 11</p><a href="projects_titles.md">Titles</a> Redux</td>
-<td><p>Apr 13</p><a href="projects_endtag.md">End Tag</a>: <a href="process_documentation.md">Research and Design</a></td>
+<td><p>Apr 10</p><a href="projects_titles.md">Titles</a> Redux</td>
+<td><p>Apr 12</p><a href="projects_endtag.md">End Tag</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 <tr>
 <td>13</td>
-<td><p>Apr 18</p><a href="projects_endtag.md">End Tag</a></td>
-<td><strong><p>Apr 20</p><i>NO CLASS</i> Professor out of Town</strong></td>
+<td><p>Apr 17</p><a href="projects_endtag.md">End Tag</a></td>
+<td><strong><p>Apr 19</p><i>NO CLASS</i> Professor out of Town</strong></td>
 </tr>
 <tr>
 <td>14</td>
-<td><p>Apr 25</p><a href="projects_endtag.md">End Tag</a> Redux</td>
-<td><p>Apr 27</p><a href="projects_demoreel.md">Demo Reel</a>: <a href="process_documentation.md">Research and Design</a></td>
+<td><p>Apr 24</p><a href="projects_endtag.md">End Tag</a> Redux</td>
+<td><p>Apr 26</p><a href="projects_demoreel.md">Demo Reel</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 
 <tr>
 <td>15</td>
-<td><p>May 2</p><a href="projects_demoreel.md">Demo Reel</a></td>
-<td><p>May 4</p><a href="projects_demoreel.md">Demo Reel</a> Redux</td>
+<td><p>May 1</p><a href="projects_demoreel.md">Demo Reel</a></td>
+<td><p>May 3</p><a href="projects_demoreel.md">Demo Reel</a> Redux</td>
 </tr>
 
 <tr>
 <td>16</td>
-<td><p>May 9</p><strong><i>NO CLASS</i> NYU Reading Day</strong></td>
-<td><strong><p>May 11</p>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
+<td><p>May 8</p><strong><i>NO CLASS</i> NYU Reading Day</strong></td>
+<td><strong><p>May 10</p>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
 </tr>
 
 <tr>
 <td></td>
-<td><strong><p>May 12 (Fri), May 15 (Mon), or May 16 (Tue)</p>Final one on one appointments
+<td><strong><p>May 11 (Thu), May 12 (Fri), May 15 (Mon), or May 16 (Tue)</p>Final one on one appointments
 <ul>
 <li>Schedule at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a></li>
 <li><a href="end_of_semester_deliverables.md">End of Semester Deliverables Due</a></li>
