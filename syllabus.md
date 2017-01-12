@@ -11,7 +11,7 @@ Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
 Prerequisite: DM-UY 1123 Visual Foundation Studio
 ```
 
-#### Gitbook Repository: [http://deangela.gitbooks.io/motion-graphics-studio-spring-2017/welcome](http://deangela.gitbooks.io/motion-graphics-studio-spring-2017/welcome)
+#### Gitbook Repository: [http://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/](http://deangela.gitbooks.io/motion-graphics-studio-spring-2017/welcome)
 
 #### Course Management Site: [http://bxmc.slack.com](http://bxmc.slack.com)
 
