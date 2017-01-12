@@ -14,7 +14,7 @@
 ---
 
 **Abstract Animation / Intonation Pioneers**
-* Oskar Fischinger
+* **Oskar Fischinger** (Alexis Z.)
 * Harry Smith
 
 **Film Titling**
