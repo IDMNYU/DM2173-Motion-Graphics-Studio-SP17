@@ -20,7 +20,7 @@
 <td>1</td>
 <td><strong><p>Jan 23</p><i>NO CLASS Professor at conference</i></strong></td>
 <td><strong><p>Jan 26</p><i>NO CLASS Professor at conference</i></strong></p>
-<p><strong>Jan 27</strong></p><p>MAKEUP CLASS (Thu) </p><p><strong>During the first week of class, we'll ONLY meet on Thursday at either 10:30-12:20pm OR 6:30pm-8:20pm in MAGNET 813</strong> to make up one of the dates while I'm at the conference. I'm going to send out a <a href="http://doodle.com/poll/p539a2aaez9p6s6r">doodle poll</a>a> to see which timeslot works for most students.</p>
+<p><strong>Jan 27</strong></p><p>MAKEUP CLASS (Thu) </p><p><strong>During the first week of class, we'll ONLY meet on Thursday at either 10:30-12:20pm OR 6:30pm-8:20pm in MAGNET 813</strong> to make up one of the dates while I'm at the conference. I'm going to send out a <a href="http://doodle.com/poll/p539a2aaez9p6s6r">doodle poll</a> to see which timeslot works for most students.</p>
 <ul>
 <li>Course and Student Introductions</li>
 <li>Overview of Course</li>
