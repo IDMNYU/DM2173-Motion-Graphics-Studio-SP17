@@ -15,12 +15,12 @@ Your diary should chronicle:
 
 ---
 Do one or both of these tutorials first on [Lynda, nyu.edu/lynda](http://nyu.edu/lynda) (sign in with your nyu account to get these tutorials for free)
-* After Effects CC 2017 Essential Training: The Basics by Mark Christiansen OR 
-* After Effects Apprentice 01: CC Pre-Roll by Chris Meyer OR 
+* **After Effects CC 2017 Essential Training: The Basics** by Mark Christiansen OR 
+* **After Effects Apprentice 01: CC Pre-Roll** by Chris Meyer OR 
 * Both tutorials to get two different voices and approaches
 
 Do the essential training or apprentice series or both second
-* After Effects CC Essential Training (2015) by Ian Robinson OR 
-* After Effects Apprentice 01-14 (multiple courses) by Chris Meyer or Trish Meyer OR 
+* **After Effects CC Essential Training (2015)** by Ian Robinson OR 
+* **After Effects Apprentice** 01-14 (multiple courses) by Chris Meyer or Trish Meyer OR 
 * Both Series to get different voices and approaches
 
