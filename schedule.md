@@ -129,7 +129,7 @@
 
 <tr>
 <td>16</td>
-<td><p>May 8</p><strong>MAKEUP Class</strong></td>
+<td><p>May 8</p><a href="projects_demoreel.md">Demo Reel</a> Redux</td>
 <td><strong><p>May 10</p>FINAL: <a href="projects_demo_reel.md">Demo Reel</a></strong></td>
 </tr>
 
