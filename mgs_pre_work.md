@@ -6,7 +6,7 @@
 
 ---
 **Your Commitment to this Course**
-* If you are prone to saying that "this course is too much work," this course may not be for you. This course will require a LOT of time outside of class AT LEAST 8 to 16 hours every week. You will be able to build some amazing portfolio pieces in this course, but only if you are committed to doing so. This is not a class where you can do the homework the night before. It's actually not physically possible. If this is your mode of operating, I wouldn't recommend this course for you. There are 18 people on the waitlist so if you are not totally committed to this course I'd recommend that you drop the course and find another by consulting with Eric. I only want students who really want to create amazing work and will push themselves to do so.
+* If you are prone to saying that "this course is too much work," this course may not be for you. This course will require a LOT of time outside of class AT LEAST 8 to 16 hours every week. You will be able to build some amazing portfolio pieces in this course, but only if you are committed to doing so. This is not a class where you can do the homework the night before. It's actually not physically possible. If this is your mode of operating, I wouldn't recommend this course for you. There are 18 people on the waitlist so if you are not totally committed to this course I'd recommend that you drop the course and find another by consulting with Eric. **I only want students in the class who really want to create amazing work and will push themselves to do so.**
 
 **First Day of Class**
 * **Thursday, Jan 26** (instead of Tues Jan 24. I will be attending a conference out of town.)
