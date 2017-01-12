@@ -7,11 +7,7 @@
 ---
 
 **Motion Graphics**
-*I highly recommend that you try to obtain a used copy of Moving Type or Motion Design both by Matt Woolman whichever you can find cheaper. Both are out of print.*
-
 * Motion Graphic Design: Applied History and Aesthetics by Jon Krasner
-* Moving Type: Designing for Time and Space by Matt Woolman & Jeff Bellantoni [NOTE: This is the 1st edition of the Motion Design book below. (This is out of print. You can buy a copy of it on [Amazon](https://www.amazon.com/Moving-Type-Designing-Time-Space/dp/2880463696/ref=sr_1_1?ie=UTF8&qid=1484081727&sr=8-1&keywords=moving+type) used.)]
-* Motion Design by Matt Woolman (This is out of print. You can buy a copy of it on [Amazon]() used.)
 * Lowfat: A Visual Journey Taking You to 96 Hot Motion Graphic Destinations by Gary Lau
 * Motion by Design by Spencer Drate
 * Type in Motion: Innovations in Digital Graphics by Jeff Bellantoni and Matt Woolman
