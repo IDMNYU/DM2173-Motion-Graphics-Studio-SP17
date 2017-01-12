@@ -14,7 +14,7 @@
 **Slack Invite (http://bxmc.slack.com)**
 * You will be receiving an invitation from Slack shortly. Please accept it. I have to manually enter you to the mgs slack channel. Please be patient.
 * If you've been in one of my classes before, you'll automatically be added with the username and password you used before with my class.
-* I suggest changing your [slack account notification settings](https://bxmc.slack.com/account/notifications)
+* I suggest changing your [slack account notification settings](https://bxmc.slack.com/account/notifications) to receive slack notifications via your nyu email so you don't miss any posts.
 
 **Adobe After Effects**
 * If you don't already have the following software, purchase the student adobe creative cloud option to get Adobe After Effects.
@@ -33,12 +33,12 @@ Do the essential training or apprentice series or both second
 * **Both** Series to get different voices and approaches
 
 **After Effects Diary**
-* Begin entering entries for the After Effects Diary.
+* Begin entering entries for the [After Effects Diary]().
 
 **Required Book**
 * Purchase **Moving Type: Designing for Time and Space** by Matt Woolman & Jeff Bellantoni OR **Motion Design** by Matt Woolman. Both are out of print, but purchase whichever is cheaper on amazon.com or half.com. Do not buy both. There are many on Amazon that will be anywhere from $4 to $21 including shipping.
-    * Amazon: Moving Type
-    * Half.com: Moving Type
+    * [Amazon: Moving Type](https://www.amazon.com/Moving-Type-Designing-Time-Space/dp/2880463696/ref=sr_1_1?ie=UTF8&qid=1484081727&sr=8-1&keywords=moving+type) 
+    * [Half.com: Moving Type](http://product.half.ebay.com/Type-in-Motion-Innovations-in-Digital-Graphics-by-Matt-Woolman-and-Jeff-Bellantoni-1999-Hardcover/1127478&tg=info)
 For whatever reason, Motion Design is always more expensive than Moving Type but they are essentially the same book. So again whichever you can find cheaper and do not buy both.
 
 **Show and Tell**
