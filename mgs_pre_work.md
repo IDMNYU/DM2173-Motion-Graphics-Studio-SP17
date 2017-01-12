@@ -33,7 +33,7 @@ Do the essential training or apprentice series or both second
 * **Both** Series to get different voices and approaches
 
 **After Effects Diary**
-* Begin entering entries for the [After Effects Diary]().
+* Begin entering entries for the [After Effects Diary](https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html).
 
 **Required Book**
 * Purchase **Moving Type: Designing for Time and Space** by Matt Woolman & Jeff Bellantoni OR **Motion Design** by Matt Woolman. Both are out of print, but purchase whichever is cheaper on amazon.com or half.com. Do not buy both. There are many on Amazon that will be anywhere from $4 to $21 including shipping.
