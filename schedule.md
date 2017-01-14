@@ -23,19 +23,18 @@
 <li>Do <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html">Lynda.com Tutorials and Document in Your After Effects Diary</a></li>
 <li>Do Research and Prepare Presentation for Your <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show and Tell</a></li>
 </ul></td>
-<td><strong><p>Jan 25</p><i>NO CLASS Professor at conference</i></strong><ul>
-<li>Do <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html">Lynda.com Tutorials and Document in Your After Effects Diary</a></li>
-<li>Do Research and Prepare Presentation for Your <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show and Tell</a></li>
+<td><ul>
+<li>Course and Student Introductions</li>
+<li>Overview of the Course</li>
+<li><a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">Finished Not Perfect</a> by Jake Parker</li>
+<li>Motion Graphics Concepts</li>
 </ul></td>
 </tr>
 <tr>
 <td>2</td>
 <td><p>Jan 30</p>
 <ul>
-<li>Course and Student Introductions</li>
-<li>Overview of the Course</li>
-<li><a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">Finished Not Perfect</a> by Jake Parker</li>
-
+<li><a href="show_and_tells.md">Show &amp; Tells</a></li>
 <li>Motion Graphics Concepts</li>
 <li>After Effects Demo</li>
 </ul></td>
@@ -68,7 +67,6 @@
 <td><p>Feb 13</p>
 <ul>
 <li><a href="projects_overeffects.md">Over Effects</a> Redux</li>
-<li><li><a href="show_and_tells.md">Show &amp; Tells</a></li>
 </ul></td>
 <td valign="top"><p>Feb 15</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a>: <a href="process_documentation.md">Research and Design</a> <ul><li>(Choose one or the other. Not both.)</li></ul></td>
 </tr>

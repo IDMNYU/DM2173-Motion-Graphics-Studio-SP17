@@ -20,7 +20,7 @@
 **Film Titling**
 * Kyle Cooper / Prologue Films / Imaginary Forces
 (Seven, Spiderman, The Mummy, Sphere, etc)
-* Garson Yu / yU+co
+* **Garson Yu / yU+co** (Chrystal)
 (mission impossible, unfaithful, hulk, the italian job, etc)
 * Saul Bass
 (Psycho, Casino, West Side Story, GoodFellas, Cape Fear, etc)
@@ -48,7 +48,7 @@
 (ABC, UPN, ESPN, E!, Fox, MTV, VH1, Style, Comedy Central, etc)
 * Motion Theory
 (REM Video, HP, Nike, ESPN, Fox Sports Television, etc.)
-* Stardust
+* **Los York** (Angela)
 (Honda, Pepsi, HP, Nokia, MAC Cosmetics, Microsoft, etc.)
 
 **Music Video**
