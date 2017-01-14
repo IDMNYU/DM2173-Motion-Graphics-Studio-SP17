@@ -12,7 +12,7 @@
 Thanks to Calvin for pointing out the discrepancy of the class days. To make a long story short, the class will be meeting as posted on Albert on Mondays and Wednesdays. I've changed the syllabus schedule on gitbook to reflect Monday and Wednesday dates.
 
 Because I thought the course was meeting on Tuesdays and Thursdays, a couple of things... 
-* **During the first week of class, we'll ONLY meet on Thursday at either 10:30-12:20pm OR 6:30pm-8:20pm in MAGNET 813** to make up one of the dates while I'm at the conference. I'm going to send out a [doodle poll](http://doodle.com/poll/p539a2aaez9p6s6r) to see which timeslot works for most students. 
+* **During the first week of class, we'll ONLY meet on Wednesday, Jan 25th, during our regularly scheduled day and time.** 
 * With the 2nd week of classes, we'll resume the normal M/W schedule but I will be coming from the airport on Monday. If all goes well I'll be on time. If the flight is delayed I may be late to class but do not leave I'll be coming. I'll post updates to Slack if anything comes up.
 
 **Slack Invite (http://bxmc.slack.com)**
