@@ -18,7 +18,7 @@
 * Harry Smith
 
 **Film Titling**
-* Kyle Cooper / Prologue Films / Imaginary Forces
+* **Kyle Cooper / Prologue Films / Imaginary Forces** Larysa
 (Seven, Spiderman, The Mummy, Sphere, etc)
 * **Garson Yu / yU+co** (Chrystal)
 (mission impossible, unfaithful, hulk, the italian job, etc)

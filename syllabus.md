@@ -5,7 +5,7 @@
 ```
 De Angela L. Duff • deangela.duff@nyu.edu • Spring 2017 
 Mondays & Wednesdays • 2:30PM-4:20PM • 2MTC MAGNET 813 • 3 credit hrs
-Office hours by appointment or directly after class 
+Office hours by appointment (https://calendly.com/deangela) or directly after class 
 Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
 
 Prerequisite: DM-UY 1123 Visual Foundation Studio
