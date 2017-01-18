@@ -23,7 +23,7 @@
 <li>Do <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html">Lynda.com Tutorials and Document in Your After Effects Diary</a></li>
 <li>Do Research and Prepare Presentation for Your <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show and Tell</a></li>
 </ul></td>
-<td><ul>
+<td><strong><p>Jan 25</p></strong><ul>
 <li>Course and Student Introductions</li>
 <li>Overview of the Course</li>
 <li><a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">Finished Not Perfect</a> by Jake Parker</li>
