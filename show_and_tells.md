@@ -22,7 +22,7 @@
 (Seven, Spiderman, The Mummy, Sphere, etc)
 * **Garson Yu / yU+co** (Chrystal)
 (mission impossible, unfaithful, hulk, the italian job, etc)
-* Saul Bass
+* **Saul Bass** (Cadence)
 (Psycho, Casino, West Side Story, GoodFellas, Cape Fear, etc)
 * Pablo Ferro
 (Bullit, Thomas Crown Affair, Dr. Strangelove, To Die For, Men In Black)
@@ -36,13 +36,13 @@
 (The Talented Mr. Ripley, The English Patient, Any Given Sunday, etc)
 
 **Broadcast Design**
-* Psyop
+* **Psyop** (Calvin)
 (VH1, ESPN, Ford, Starbucks, Fox Nascar, AT&T, Samsung, etc)
-* Digital Kitchen
+* **Digital Kitchen** (Jason)
 (Dexter, Six Feet Under, Budweiser, Cartoon Network, Target, etc)
 * Logan (hellologan.com)
 (Apple, Volkswagon, Gap, etc)
-* Trollbäck and Company
+* **Trollbäck and Company** (Fannie)
 (AMC and TNT Network Identities, Monsoon Wedding (film), etc)
 * Troika Design Group (documentary on [Lynda](http://nyu.edu/lynda))
 (ABC, UPN, ESPN, E!, Fox, MTV, VH1, Style, Comedy Central, etc)
