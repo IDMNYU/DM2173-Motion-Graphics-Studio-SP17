@@ -15,7 +15,6 @@
 
 **Abstract Animation / Intonation Pioneers**
 * **Oskar Fischinger** (Alexis Z.)
-* Harry Smith
 
 **Film Titling**
 * **Kyle Cooper / Prologue Films / Imaginary Forces** Larysa
