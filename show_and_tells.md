@@ -39,7 +39,7 @@
 (VH1, ESPN, Ford, Starbucks, Fox Nascar, AT&T, Samsung, etc)
 * **Digital Kitchen** (Jason)
 (Dexter, Six Feet Under, Budweiser, Cartoon Network, Target, etc)
-* Logan (hellologan.com)
+* Logan (logan.tv)
 (Apple, Volkswagon, Gap, etc)
 * **Trollbäck and Company** (Fannie)
 (AMC and TNT Network Identities, Monsoon Wedding (film), etc)
