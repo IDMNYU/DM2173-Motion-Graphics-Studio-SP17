@@ -44,10 +44,8 @@
 (Apple, Volkswagon, Gap, etc)
 * **Trollbäck and Company** (Fannie)
 (AMC and TNT Network Identities, Monsoon Wedding (film), etc)
-* Troika Design Group (documentary on [Lynda](http://nyu.edu/lynda))
+* **Troika Design Group** (Orlando) (documentary on [Lynda](http://nyu.edu/lynda))
 (ABC, UPN, ESPN, E!, Fox, MTV, VH1, Style, Comedy Central, etc)
-* Motion Theory
-(REM Video, HP, Nike, ESPN, Fox Sports Television, etc.)
 * **Los York** (Angela)
 (Honda, Pepsi, HP, Nokia, MAC Cosmetics, Microsoft, etc.)
 
