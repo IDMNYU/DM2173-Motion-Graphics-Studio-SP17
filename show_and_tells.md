@@ -17,7 +17,7 @@
 * **Oskar Fischinger** (Alexis Z.)
 
 **Film Titling**
-* **Kyle Cooper / Prologue Films / Imaginary Forces** Larysa
+* **Kyle Cooper / Prologue Films / Imaginary Forces** (Larysa)
 (Seven, Spiderman, The Mummy, Sphere, etc)
 * **Garson Yu / yU+co** (Chrystal)
 (mission impossible, unfaithful, hulk, the italian job, etc)
@@ -29,7 +29,7 @@
 (superman, aliens, blowout, garp, gandhi, ghostbusters, predator, etc.)
 * Maurice Binder
 (early James Bond)
-* Marlene McCarty
+* **Marlene McCarty** (Pooja)
 (I’m Not There, Office Killer, Ice Storm, American Psycho, Velvet Goldmine, etc)
 
 **Broadcast Design**
