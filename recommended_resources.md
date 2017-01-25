@@ -68,6 +68,7 @@ http://greyscalegorilla.com/intro-to-cinema-4d
 http://www.watchthetitles.com 
 * Top 28 Best Motion Graphics Blogs and Resources - 
 http://www.gomediazine.com/industry-insights/28-staple-blogs-motion-graphic-artists
+* Movie Title Stills Collection - http://annyas.com/screenshots/updates/
 * Motion Served – http://www.motionserved.com
 * Wine after Coffee – http://wineaftercoffee.com
 * Motionographer – http://motionographer.com 

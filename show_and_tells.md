@@ -23,23 +23,21 @@
 (mission impossible, unfaithful, hulk, the italian job, etc)
 * **Saul Bass** (Cadence)
 (Psycho, Casino, West Side Story, GoodFellas, Cape Fear, etc)
-* Pablo Ferro
+* **Pablo Ferro** (Bonnie)
 (Bullit, Thomas Crown Affair, Dr. Strangelove, To Die For, Men In Black)
-* R/GA
+* **R/GA** (Tim)
 (superman, aliens, blowout, garp, gandhi, ghostbusters, predator, etc.)
 * Maurice Binder
 (early James Bond)
 * Marlene McCarty
 (I’m Not There, Office Killer, Ice Storm, American Psycho, Velvet Goldmine, etc)
-* Deborah Ross
-(The Talented Mr. Ripley, The English Patient, Any Given Sunday, etc)
 
 **Broadcast Design**
 * **Psyop** (Calvin)
 (VH1, ESPN, Ford, Starbucks, Fox Nascar, AT&T, Samsung, etc)
 * **Digital Kitchen** (Jason)
 (Dexter, Six Feet Under, Budweiser, Cartoon Network, Target, etc)
-* Logan (logan.tv)
+* **Logan (logan.tv)** (Hillary)
 (Apple, Volkswagon, Gap, etc)
 * **Trollbäck and Company** (Fannie)
 (AMC and TNT Network Identities, Monsoon Wedding (film), etc)
@@ -49,9 +47,9 @@
 (Honda, Pepsi, HP, Nokia, MAC Cosmetics, Microsoft, etc.)
 
 **Music Video**
-* Shynola
+* **Shynola** (Akash)
 (radiohead, unkle, the rapture, queens of the stone age, blur, etc)
-* Michel Gondry
+* **Michel Gondry** (Alexis T.)
 (Bjork, The White Stripes, Beck, Daft Punk, Chemical Brothers, etc)
 
 **Motion Graphics**
