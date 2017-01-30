@@ -46,7 +46,7 @@
 </tr>
 
 <tr>
-<td><td><strong><p>Feb 4 (Sun)</p><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td><td></td>
+<td><td><strong><p>Feb 5 (Sun)</p><i>Last day to drop Spring 2017 classes and not receive a grade of "W"</i></strong></td><td></td>
 </tr>
 
 <tr>
