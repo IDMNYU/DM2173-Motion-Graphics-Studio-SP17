@@ -56,6 +56,10 @@
 * Adobe After Effects, Illustrator & Photoshop
 http://lynda.com
 * AE TUTS – http://ae.tutsplus.com
+    * <a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-getting-started/" target="_blank">AETUTS: After Effects for Beginners: Getting Started</a>
+    * <a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-effects-animation/" target="_blank">AETUTS: After Effects for Beginners: Effects & Animation</a>
+    * <a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-advanced-techniques/" target="_blank">AETUTS: After Effects for Beginners: Advanced Techniques</a>
+    * <a href="http://ae.tutsplus.com/tutorials/motion-graphics/design-rhythmic-motion-typography-in-after-effects/" target="_blank">AETUTS: Design Rhythmic Motion Typography in After Effects</a>
 * Creative Cow Video Tutorials – http://library.creativecow.net
 * Adobe Design Center’s Video Workshop
 * Adobe Create Magazine - http://create.adobe.com/

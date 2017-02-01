@@ -27,11 +27,11 @@
 <li>Do <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/after_effects_diary.html">Lynda.com Tutorials and Document in Your After Effects Diary</a></li>
 <li>Do Research and Prepare Presentation for Your <a href="https://deangela.gitbooks.io/motion-graphics-studio-spring-2017/content/show_and_tells.html">Show and Tell</a></li>
 </ul></td>
-<td><strong><p>Jan 25</p></strong><ul>
-<li>Course and Student Introductions</li>
+<td><strong><p>Jan 25</p></strong>
+<ul>
 <li>Overview of the Course</li>
-<li><a href="https://www.youtube.com/watch?v=Q4vWXbOLmaE" target="_blank">Finished Not Perfect</a> by Jake Parker</li>
-<li>Motion Graphics Concepts</li>
+<li>Motion Graphics Matrix from Motion Design by Matt Woolman</li>
+<li>Class Exercise: Word Lists for Time, Space, and Form</li>
 </ul></td>
 </tr>
 <tr>
@@ -47,6 +47,7 @@
     <li>Digital Kitchen (Jason)</li>
     </ul>
 <li>Motion Graphics Concepts</li>
+<li>16:9 Aspect Ratio</li>
 </ul></td>
 <td valign="top"><p>Feb 1</p>
 <ul>
@@ -99,17 +100,20 @@
 <ul>
 <li><a href="projects_overeffects.md">Over Effects</a> Redux</li>
 </ul></td>
-<td valign="top"><p>Feb 15</p>Choose one or the other. Not both.
+<td valign="top"><p>Feb 15</p>
+<ul>
+<li>Discuss <a href="success.md">Success Checklist</a></li>
+<li><a href="process_documentation.md">Research and Design</a> for one or the other. Not both.</li>
     <ul>
     <li><a href="projects_self_portrait.md">Self-Portrait</a></li> 
-    <li><a href="projects_song_intonation.md">Song Intonation</a>: <a href="process_documentation.md">Research and Design</a></li>
+    <li><a href="projects_song_intonation.md">Song Intonation</a></li>
     </ul>
 </td>
 </tr>
 
 <tr>
 <td>5</td>
-<td><p>Feb 20</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
+<td><p>Feb 20</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a></td>
 <td><p>Feb 22</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
 </tr>
 

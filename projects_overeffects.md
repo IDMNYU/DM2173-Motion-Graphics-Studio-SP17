@@ -6,7 +6,7 @@
 
 ---
 
-**Overeffects: Place** 15 seconds	
+**Overeffects: Place** 30 seconds	
 The purpose of this assignment is to exhaustively explore all of the effects in After Effects. The purpose is NOT to create something beautiful. It should be purposefully ugly and/or cheesy. You can create something beautiful for the second iteration. **Think of it as effects vomit.**
 
 * Shoot digital video or photograph to document a place of your choosing.
