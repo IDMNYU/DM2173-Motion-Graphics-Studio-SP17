@@ -64,7 +64,7 @@ Laptop computers and other mobile devices are invaluable tools for artists, desi
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
 
 * Direct message on Slack about logistics (when, where, how many?) ONLY
-* Talk to me in person directly after class or set up an appointment about issues and problems. DO NOT direct message long conversations. (If your direct message turns into paragraphs that means you should be talking to me in person not direct messaging me.)
+* Talk to me in person directly after class or [set up an appointment](https://calendly.com/deangela) about issues and problems. DO NOT direct message long conversations. (If your direct message turns into paragraphs that means you should be talking to me in person not direct messaging me.)
 
 ### STUDENT RESPONSIBILITIES
 
