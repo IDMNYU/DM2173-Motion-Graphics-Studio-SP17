@@ -31,7 +31,7 @@
 <ul>
 <li>Overview of the Course</li>
 <li>Motion Graphics Matrix from Motion Design by Matt Woolman</li>
-<li>Class Exercise: Word Lists for Time, Space, and Form</li>
+<li>Class Exercise: Group Word Lists for Time, Space, and Form</li>
 </ul></td>
 </tr>
 <tr>
@@ -60,8 +60,11 @@
     <li>Marlene McCarty (Pooja)</li>
     <li>Shynola (Akash)</li>
     </ul>
-<li>Motion Graphics Concepts</li>
 <li>After Effects Demo</li>
+    <ul>
+    <li><a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-getting-started/" target="_blank">AETUTS: After Effects for Beginners: Getting Started</a></li>
+    <li><a href="http://ae.tutsplus.com/tutorials/beginner-series/after-effects-for-beginners-effects-animation/" target="_blank">AETUTS: After Effects for Beginners: Effects &amp; Animation</a></li>
+    </ul>
 </ul></td>
 </tr>
 
