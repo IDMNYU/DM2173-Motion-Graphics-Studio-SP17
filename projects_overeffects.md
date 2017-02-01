@@ -32,10 +32,17 @@ All motion graphics assignments should be exported, rendered, and uploaded to ht
 Vimeo
 * The aspect ratio should be 16:9, 29.97
 * Post lo-res to vimeo for class: 640x 360
-* COMPRESSION TYPE: MPEG-4
+* COMPRESSION TYPE: H264
+* Sound 44.1 kHz
 * Post with these tags **MGS, IDM, NYU**
 
+**Share your vimeo link in our slack channel right before class.**
+
+I would suggest that you go ahead and also export a high-res version so that you don't have to go back and do this at the end of the Semester.
+
 Google Drive
-* Export hi-res for deliverables: 1920x1080
+* Export hi-res for deliverables: 1920x1080 or 1280x720
 * COMPRESSION TYPE: H264
 * Upload hi-res version to google drive folder by end of semester (see [end of semester deliverables](end_of_semester_deliverables.md).)
+
+
