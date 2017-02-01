@@ -15,7 +15,11 @@
 <th width="48%">Mondays (Due on Date Listed)</th>
 <th width="48%">Wednesdays (Due on Date Listed)</th>
 </tr>
-
+<tr>
+<td></td>
+<td><strong><a href="mgs_pre_work.md">MGS Pre-work</a></strong></td>
+<td></td>
+</tr>
 <tr>
 <td>1</td>
 <td><strong><p>Jan 23</p><i>NO CLASS Professor at conference</i></strong>
@@ -35,11 +39,26 @@
 <td><p>Jan 30</p>
 <ul>
 <li><a href="show_and_tells.md">Show &amp; Tells</a></li>
+    <ul>
+    <li>Oskar Fischinger (Alexis Z.)</li>
+    <li>Saul Bass (Cadence)</li>
+    <li>MK12 (Corinna)</li>
+    <li>Trollbäck and Company (Fannie)</li>
+    <li>Digital Kitchen (Jason)</li>
+    </ul>
 <li>Motion Graphics Concepts</li>
-<li>After Effects Demo</li>
 </ul></td>
-<td valign="top"><p>Feb 1</p><ul>
+<td valign="top"><p>Feb 1</p>
+<ul>
+<li>Discuss importance of Show &amp; Tells</li>
 <li><a href="show_and_tells.md">Show &amp; Tells</a></li>
+    <ul>
+    <li>LucasArts / LucasFilm (Luciano)</li>
+    <li>Troika Design Group (Orlando)</li>
+    <li>Garson Yu / yU+co (Chrystal)</li>
+    <li>Marlene McCarty (Pooja)</li>
+    <li>Shynola (Akash)</li>
+    </ul>
 <li>Motion Graphics Concepts</li>
 <li>After Effects Demo</li>
 </ul></td>
@@ -54,9 +73,21 @@
 <td valign="top"><p>Feb 6</p><ul>
 <li><a href="projects_overeffects.md">Over Effects</a></li>
 <li><a href="show_and_tells.md">Show &amp; Tells</a></li>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul>
 </ul></td>
 <td valign="top"><p>Feb 8</p><ul>
 <li><a href="show_and_tells.md">Show &amp; Tells</a></li>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul>
 <li>Motion Graphics Concepts</li>
 <li>After Effects Demo</li>
 </ul></td>
@@ -68,7 +99,12 @@
 <ul>
 <li><a href="projects_overeffects.md">Over Effects</a> Redux</li>
 </ul></td>
-<td valign="top"><p>Feb 15</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a>: <a href="process_documentation.md">Research and Design</a> <ul><li>(Choose one or the other. Not both.)</li></ul></td>
+<td valign="top"><p>Feb 15</p>Choose one or the other. Not both.
+    <ul>
+    <li><a href="projects_self_portrait.md">Self-Portrait</a></li> 
+    <li><a href="projects_song_intonation.md">Song Intonation</a>: <a href="process_documentation.md">Research and Design</a></li>
+    </ul>
+</td>
 </tr>
 
 <tr>
