@@ -15,7 +15,7 @@ The purpose of this assignment is to exhaustively explore all of the effects in 
 * Take the edited footage and “overprocess” it in After Effects.
 * Use multiple effects and filters to remove the imagery from its initial recognizability, and take it toward an abstract, emotional realm
 * Consider the limitations of using given/effects, the value of combining several effects, and the process of indulging in the program’s capabilities by deliberately overusing effects.
-* Alter the sound using After Effects’ audio effects
+* **Alter the sound using After Effects’ audio effects**
 
 **Overeffects: Place Redux** 15 seconds	
 * Iterate the previous assignment to use effects purposefully and strategically. 
@@ -38,7 +38,7 @@ Vimeo
 
 **Share your vimeo link in our slack channel right before class.**
 
-I would suggest that you go ahead and also export a high-res version so that you don't have to go back and do this at the end of the Semester.
+I would suggest that you go ahead and also export a high-res version so that you don't have to go back and do this at the end of the semester.
 
 Google Drive
 * Export hi-res for deliverables: 1920x1080 or 1280x720
