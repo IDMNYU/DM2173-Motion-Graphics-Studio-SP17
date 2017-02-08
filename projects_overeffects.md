@@ -18,8 +18,8 @@ The purpose of this assignment is to exhaustively explore all of the effects in 
 * **Alter the sound using After Effects’ audio effects**
 
 **Overeffects: Place Redux** each video will be 15 seconds	
-* Iterate the previous assignment to be deliberate in your effects and transitions. 15 seconds.
-* Iterate the previous assignment to have more scenes (changes) and transitions. Experiment with the image, effects, and sound more. 15 seconds.
+* Iterate the previous assignment to be deliberate in your effects and transitions. 15 seconds. Render as a separate file and upload to vimeo.
+* Iterate the previous assignment to have more scenes (changes) and transitions. Experiment with the image, effects, and audio more. 15 seconds. Render as a separate file and upload to vimeo.
 * The two videos should be opposites. One should be thoughtful and the other wild, crazy, wacky, and experimental.
 
 
