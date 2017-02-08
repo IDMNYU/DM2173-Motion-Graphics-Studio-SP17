@@ -76,7 +76,11 @@
 <td>3</td>
 <td valign="top"><p>Feb 6</p><ul>
 <li><a href="projects_overeffects.md">Over Effects</a></li>
-<li>Watch Shynola's House of Jealous Lovers for The Rapture</li>
+<li>Watch</li>
+    <ul>
+    <li>Shynola's House of Jealous Lovers for The Rapture</li>
+    <li>Tomorrow's Brightest Minds' MF from Hell for The Datsuns</li>
+    </ul>
 <li><a href="show_and_tells.md">Show &amp; Tells</a></li>
     <ul>
     <li>Pablo Ferro (Bonnie)</li>
@@ -93,8 +97,7 @@
     <li>R/GA (Tim)</li>
     <li>Kyle Cooper / Prologue Films / Imaginary Forces (Larysa)</li>
     </ul>
-<li>Motion Graphics Concepts</li>
-<li>After Effects Demo</li>
+<li>Rendering, Prerendering, Proxies, and Counterpoint</li>
 </ul></td>
 </tr>
 
@@ -112,6 +115,9 @@
     <li><a href="projects_self_portrait.md">Self-Portrait</a></li> 
     <li><a href="projects_song_intonation.md">Song Intonation</a></li>
     </ul>
+<li>Motion Graphics Concepts</li>
+<li>After Effects Demo</li>
+</ul>
 </td>
 </tr>
 
