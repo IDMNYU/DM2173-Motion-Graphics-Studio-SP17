@@ -17,8 +17,11 @@ The purpose of this assignment is to exhaustively explore all of the effects in 
 * Consider the limitations of using given/effects, the value of combining several effects, and the process of indulging in the program’s capabilities by deliberately overusing effects.
 * **Alter the sound using After Effects’ audio effects**
 
-**Overeffects: Place Redux** 15 seconds	
-* Iterate the previous assignment to use effects purposefully and strategically. 
+**Overeffects: Place Redux** each video will be 15 seconds	
+* Iterate the previous assignment to be deliberate in your effects and transitions. 15 seconds.
+* Iterate the previous assignment to have more scenes (changes) and transitions. Experiment with the image, effects, and sound more. 15 seconds.
+* The two videos should be opposites. One should be thoughtful and the other wild, crazy, wacky, and experimental.
+
 
 
 ---
