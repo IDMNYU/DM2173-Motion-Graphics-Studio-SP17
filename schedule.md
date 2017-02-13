@@ -123,7 +123,7 @@
 
 <tr>
 <td>5</td>
-<td><p>Feb 20</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a></td>
+<td><p>Feb 20</p><strong><i>NO CLASSES @ NYU</i> President's Day</strong></td>
 <td><p>Feb 22</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
 </tr>
 
