@@ -8,21 +8,22 @@
 
 *Please note that this project is optional. Choose this project or the [Self-Portrait](projects_self_portrait.md) project. Do not do both.*
 
-**Song Intonation** up to 10 seconds
+**Song Intonation** 5 seconds
 
 * Select a song that lends itself to creative visual intonation. Allow the intonation
 (aka modulation) of the music or a singer’s voice to dictate the kinetics (or motion) and transitions of the movement.
 
 Specifications:
 * Type must be dominant
-* Type can be point, outlined, plane, or hand-drawn (see Motion Design
-032-033)
+* Type can be point, outlined, plane, or hand-drawn 
+    * Motion Design 032-033 (also pinned on slack)
 * Support imagery such as lines, shapes, and fragmented letterforms are
-encouraged (see Motion Design 038-039)
+encouraged 
+    * reference Moving Type 40-41 or Motion Design 038-039
 * NO PHOTOGRAPHY IS ALLOWED
 * Audio is required.
 
-**Song Intonation Redux**   up to 10 seconds  
+**Song Intonation Redux**   5 seconds  
 
 * You will reiterate a classmates’ song intonation, NOT YOUR OWN, by
 exchanging after effects file and assets. You can NOT start completely
