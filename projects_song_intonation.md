@@ -14,13 +14,11 @@
 (aka modulation) of the music or a singer’s voice to dictate the kinetics (or motion) and transitions of the movement.
 
 Specifications:
-* Type must be dominant
 * Type can be point, outlined, plane, or hand-drawn 
     * Motion Design 032-033 (also pinned on slack)
 * Support imagery such as lines, shapes, and fragmented letterforms are
 encouraged 
     * reference Moving Type 40-41 or Motion Design 038-039
-* NO PHOTOGRAPHY IS ALLOWED
 * Audio is required.
 
 **Song Intonation Redux**   5 seconds  

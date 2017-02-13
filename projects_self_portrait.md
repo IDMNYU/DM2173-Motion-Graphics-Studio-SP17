@@ -13,13 +13,11 @@ _Please note that this project is optional. Choose this project or the [Song Int
 * Make a five second motion graphics piece about yourself. What you like, what you do, what you know, what you LOVE. Anything really. Just make it personal.
 
 Specifications:
-* Type must be dominant
 * Type can be point, outlined, plane, or hand-drawn 
     * Motion Design 032-033 (also pinned on slack)
 * Support imagery such as lines, shapes, and fragmented letterforms are
 encouraged 
     * reference Moving Type 40-41 or Motion Design 038-039
-* NO PHOTOGRAPHY IS ALLOWED
 * Audio is required.
 
 **Self-Portrait Redux** 5 seconds
