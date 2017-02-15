@@ -111,6 +111,8 @@
 <td valign="top"><p>Feb 15</p>
 <ul>
 <li>Remaining Show &amp; Tells</li>
+<li>Discuss always post homework on slack.</li>
+<li>Always post any videos including animatics to vimeo and then on slack.</li>
 <li>Discuss <a href="after_effects_diary.md">After Effects Diary</a> (aka you should be doing them throughout the semester on a weekly basis.)</li>
 <li><a href="process_documentation.md">Research and Design</a> for one or the other. Not both.</li>
     <ul>
