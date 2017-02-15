@@ -111,9 +111,12 @@
 <td valign="top"><p>Feb 15</p>
 <ul>
 <li>Remaining Show &amp; Tells</li>
-<li>Discuss always post homework on slack.</li>
-<li>Always post any videos including animatics to vimeo and then on slack.</li>
-<li>Discuss feedback.</li>
+<li>Discuss: always post homework on slack.</li>
+<li>Discuss: Always post any videos including animatics to vimeo and then on slack.</li>
+<li>Discuss: Feedback.</li>
+<li>Discuss studying vs. doing</li>
+<li>Discuss: Reading Moving Type and Motion Design on a weekly basis.</li>
+<li>Reinforce studying <a href="http://www.artofthetitle.com/" target="_blank">The Art of The Title</a></li>
 <li>Discuss <a href="after_effects_diary.md">After Effects Diary</a> (aka you should be doing them throughout the semester on a weekly basis.)</li>
 <li><a href="process_documentation.md">Research and Design</a> for one or the other. Not both.</li>
     <ul>
@@ -121,7 +124,6 @@
     <li><a href="projects_song_intonation.md">Song Intonation</a></li>
     </ul>
 <li>Motion Graphics Concepts</li>
-<li>After Effects Demo</li>
 </ul>
 </td>
 </tr>
