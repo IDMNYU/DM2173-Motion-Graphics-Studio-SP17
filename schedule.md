@@ -105,11 +105,13 @@
 <td>4</td>
 <td><p>Feb 13</p>
 <ul>
+<li>Discuss <a href="success.md">Success Checklist</a></li>
 <li><a href="projects_overeffects.md">Over Effects</a> Redux</li>
 </ul></td>
 <td valign="top"><p>Feb 15</p>
 <ul>
-<li>Discuss <a href="success.md">Success Checklist</a></li>
+<li>Remaining Show &amp; Tells</li>
+<li>Discuss <a href="after_effects_diary.md">After Effects Diary</a> (aka you should be doing them throughout the semester on a weekly basis.)</li>
 <li><a href="process_documentation.md">Research and Design</a> for one or the other. Not both.</li>
     <ul>
     <li><a href="projects_self_portrait.md">Self-Portrait</a></li> 
