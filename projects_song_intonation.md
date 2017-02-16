@@ -32,6 +32,26 @@ unrecognizable from the original.
 
 ---
 
+###Recommended Resources
+* Animatic
+  * [http://www.artofthetitle.com/title/six-feet-under/](http://www.artofthetitle.com/title/six-feet-under/)
+* Fair Use Media (images / audio /video)
+  * http://creativecommons.org 
+  * https://www.pond5.com/
+* Royalty-Free sound 
+  * [http://freesound.org](http://freesound.org) 
+  * http://freemusicarchive.org
+  * http://ccmixter.org
+  * http://soundbible.com
+  * http://www.audioblocks.com
+  * [http://incompetech.com](http://incompetech.com)
+* Creative Commons Video
+  * [http://archive.org](http://archive.org)
+
+**THERE ARE TONS OF FREE FONT RESOURCES ON THE WEB. DONT FORGET ABOUT [TYPEKIT](https://typekit.com) AND [SKYFONTS](http://skyfonts.com/)!** 
+
+---
+
 Make sure your video files are named as follows:
 * FirstnameLastname_songintonation_date.mov
 * FirstnameLastname_songintonation2_date.mov
