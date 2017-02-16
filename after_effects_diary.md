@@ -20,7 +20,7 @@ Do one or both of these tutorials first on [Lynda, nyu.edu/lynda](http://nyu.edu
 * Both tutorials to get two different voices and approaches
 
 Do the essential training or apprentice series or both second
-* **After Effects CC Essential Training (2015)** by Ian Robinson OR 
+* **After Effects CC 2017 Essential Training: Motion Graphics** &amp; **After Effects CC 2017 Essential Training: Editors and Post both** by Alan Demafile OR 
 * **After Effects Apprentice** 01-14 (multiple courses) by Chris Meyer or Trish Meyer OR 
 * Both Series to get different voices and approaches
 
