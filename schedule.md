@@ -137,12 +137,12 @@
 <tr>
 <td>6</td>
 <td><p>Feb 27</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
-<td><p>Mar 1</p><a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></td>
+<td><p>Mar 1</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Meet</td>
 </tr>
 
 <td>7</td>
-<td><p>Mar 6</p><a href="projects_retro.md">Retro</a></td>
-<td><p>Mar 8</p><a href="projects_retro.md">Retro</a> Redux</td>
+<td><p>Mar 6</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Redux</td>
+<td><p>Mar 8</p><a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></td>
 </tr>
 
 <tr>
@@ -154,7 +154,7 @@
 
 <tr>
 <td>9</td>
-<td><p>Mar 20</p><a href="projects_retro.md">Retro</a> Redux</td>
+<td><p>Mar 20</p><a href="projects_retro.md">Retro</a></td>
 <td><p>Mar 22</p><a href="projects_retro.md">Retro</a> Redux</td>
 </tr>
 
