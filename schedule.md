@@ -139,7 +139,7 @@
 <td><p>Feb 27</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Redux</td>
 <td><p>Mar 1</p>
 <ul>
-<li>List your top 3 choices for the project swap in the class channel on slack. In order of your preference, 1 being your first choice.</li>
+<li>By 10am today, list your top 3 choices for the project swap in the class channel on slack. In order of your preference, 1 being your first choice.</li>
 <li><a href="ae_tuts_homework.md">AETUTS Homework</a></li>
 <li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Meet</li>
 </ul></td>
