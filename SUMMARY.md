@@ -10,6 +10,7 @@
 ### Assignments
 
 * [After Effects Diary](after_effects_diary.md)
+* [AETUTS Homework](ae_tuts_homework.md)
 * [Show & Tell and Reverse Storyboard](show_and_tells.md)
 * [Process Documentation](process_documentation.md)
 * [Midterm and Final Self Assessments](self_assessments.md)
