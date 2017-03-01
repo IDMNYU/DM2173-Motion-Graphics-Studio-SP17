@@ -160,7 +160,6 @@
 <li>Polina -> Hillary</li>
 <li>Pooja -> Alexis Z.</li>
 <li>Tim -> Bonnie</li>
-<li>
 </ol>
 </ul></td>
 </tr>
