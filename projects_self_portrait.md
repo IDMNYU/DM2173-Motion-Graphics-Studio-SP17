@@ -23,6 +23,7 @@ encouraged
 **Self-Portrait Redux** 5 seconds
 
 * You will reiterate a classmates’ self portrait, NOT YOUR OWN, by exchanging after effects files and assets. You can NOT start completely from scratch. You must incorporate at least one element from the original piece. You do not have to use them all however. Think of remixes of music. Some remixes retain the quality of the original, while others are totally unrecognizable from the original. You want to communicate your first impression of your classmate or your own interpretation of a portrait of them.
+* You can change the audio completely.
 
 ---
 

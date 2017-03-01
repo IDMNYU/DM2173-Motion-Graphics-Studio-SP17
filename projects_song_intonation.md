@@ -29,6 +29,7 @@ from scratch. You must incorporate at least one element from the original
 piece. You do not have to use them all however. Think of remixes of music.
 Some remixes retain the quality of the original, while others are totally
 unrecognizable from the original. 
+* You have to keep the original song but you can alter the song itself (if you know how to use a DAW (logic, ableton live, reason, etc. etc.) OR you could use a cover of the song if one exists OR you can create your own cover OR have a friend do one OR use an existing remix of the actual song.
 
 ---
 
