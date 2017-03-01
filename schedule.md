@@ -142,6 +142,26 @@
 <li>By 10am today, list your top 3 choices for the project swap in the class channel on slack. In order of your preference, 1 being your first choice.</li>
 <li><a href="ae_tuts_homework.md">AETUTS Homework</a></li>
 <li><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Meet</li>
+<ol>
+<li>Akash -> Larysa</li>
+<li>Alexis T -> Polina</li>
+<li>Alexis Z -> Alexis T.</li>
+<li>Bonnie -> Tim</li>
+<li>Cadence -> Corinna</li>
+<li>Calvin -> Orlando</li>
+<li>Chrystal -> Luciano</li>
+<li>Corinna -> Cadence</li>
+<li>Fannie -> Jason</li>
+<li>Hillary -> Chrystal</li>
+<li>Jason -> Fannie</li>
+<li>Larysa -> Akash</li>
+<li>Luciano -> Pooja</li>
+<li>Orlando -> Calvin</li>
+<li>Polina -> Hillary</li>
+<li>Pooja -> Alexis Z.</li>
+<li>Tim -> Bonnie</li>
+<li>
+</ol>
 </ul></td>
 </tr>
 
