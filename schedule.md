@@ -166,7 +166,11 @@
 
 <td>7</td>
 <td><p>Mar 6</p><a href="projects_self_portrait.md">Self-Portrait</a> OR <a href="projects_song_intonation.md">Song Intonation</a> Swap Redux</td>
-<td><p>Mar 8</p><a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></td>
+<td><p>Mar 8</p>
+<ul>
+<li><a href="http://www.artofthetitle.com/feature/10-women-of-title-design-part-three/">Art of The Title celebrates Int'l Women's Day with 10 Women of Title Design – part three!</a></li>
+<li><a href="projects_retro.md">Retro</a>: <a href="process_documentation.md">Research and Design</a></li>
+</ul></td>
 </tr>
 
 <tr>
