@@ -219,7 +219,7 @@
 <tr>
 <td>13</td>
 <td><p>Apr 17</p><a href="projects_endtag.md">End Tag</a></td>
-<td><strong><p>Apr 19</p><i>Guest Lecturer: <a href="http://www.riaskaya.com/" target="_blank">Maria Rapetskaya</a> of <a href="https://www.undefinedcreative.com" target="_blank">Undefined Creative</a></i></strong></td>
+<td><strong><p>Apr 19</p><p><a href="projects_endtag.md">End Tag</a> Redux</p><i>Guest Lecturer: <a href="http://www.riaskaya.com/" target="_blank">Maria Rapetskaya</a> of <a href="https://www.undefinedcreative.com" target="_blank">Undefined Creative</a></i></strong></td>
 </tr>
 <tr>
 <td>14</td>
