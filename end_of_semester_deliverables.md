@@ -6,7 +6,7 @@
 
 ---
 
-### Create a google drive folder labeled as MGS Spring 2017 your first and last name (i.e. MGS Spring 2017 De Angela Duff) and share with deangela.duff@nyu.edu
+### Create a google drive folder labeled "MGS Spring 2017 your first and last name" (i.e. MGS Spring 2017 De Angela Duff) and share with deangela.duff@nyu.edu
 
 with a correpsponding folder for the following projects with their corresponding files.
 * self-portrait or song intonation
