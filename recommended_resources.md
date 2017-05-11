@@ -70,6 +70,7 @@ http://greyscalegorilla.com/intro-to-cinema-4d
 * The Art of the Title Sequence – http://www.artofthetitle.com
 * Forget the Film, Watch the Title – 
 http://www.watchthetitles.com 
+* How TV Opening Titles Got to Be So Damn Good - https://www.wired.com/2017/03/tv-opening-titles-got-damn-good
 * Top 28 Best Motion Graphics Blogs and Resources - 
 http://www.gomediazine.com/industry-insights/28-staple-blogs-motion-graphic-artists
 * Movie Title Stills Collection - http://annyas.com/screenshots/updates/
